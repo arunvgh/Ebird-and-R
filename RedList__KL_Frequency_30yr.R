@@ -99,6 +99,7 @@ ebd <- ebd %>%
 ebd <- ebd %>% 
               distinct (CATEGORY,SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,GROUP.ID)
 
+#PJ: You may need domestic also to get Feral Pigeons
 ebd <- ebd %>%
               filter (CATEGORY == "species" | CATEGORY == "issf")
   
@@ -116,6 +117,11 @@ data_1 <- ebd_f %>%
                   arrange(YEAR, COMMON.NAME, SCIENTIFIC.NAME, desc(count))
 
 data_2 <- pivot_wider(data_1, names_from = YEAR, values_from = count )
+
+#PJ: Can we put all NA to 0 ? 
+
+#PJ: What is data_3? Is it including total count across years? 
+#PJ: We are storing only data_2 in the last step. Just reminding
 
 data_3 <- data_2 %>%
                   mutate(COUNT = NA)
