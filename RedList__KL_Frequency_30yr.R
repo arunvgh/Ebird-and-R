@@ -1,7 +1,7 @@
 ###################### Required ##########################
-library (dplyr)
-library (lubridate)
-library (tidyr)
+library (dplyr)  # For Pipes %>%
+library (lubridate) # For Date Function
+library (tidyr) # For pivot_wider Function
 #############################################################
 # Clear the Console and the Environment
 rm(list=ls()) 
@@ -100,7 +100,7 @@ ebd <- ebd %>%
               distinct (CATEGORY,SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,GROUP.ID)
 
 ebd <- ebd %>%
-              filter (CATEGORY == "species" | CATEGORY == "issf")
+              filter (CATEGORY %in% c('species','issf','domestic'))
   
 # Remove CATEGORY as its not needed anymore          
 ebd <- ebd %>% 
@@ -117,12 +117,17 @@ data_1 <- ebd_f %>%
 
 data_2 <- pivot_wider(data_1, names_from = YEAR, values_from = count )
 
+data_2[is.na(data_2)] <- 0
+
 data_3 <- data_2 %>%
                   mutate(COUNT = NA)
 
 data_3$COUNT <- rowSums(!is.na(data_3[3:32]))
 
 # Save the dataframe in RDS file
-saveRDS(data_2,"KL_Count_YearWise.RDS")
+saveRDS(data_3,"KL_Count_YearWise.RDS")
+
+# Write to csv file
+write.csv(data_3,"D:/ArunV/R Programming Ebird/KL_Count_YearWise.csv", row.names = FALSE)
 
 
