@@ -122,7 +122,9 @@ data_2[is.na(data_2)] <- 0
 data_3 <- data_2 %>%
                   mutate(COUNT = NA)
 
-data_3$COUNT <- rowSums(!is.na(data_3[3:32]))
+# data_3$COUNT <- rowSums(!is.na(data_3[3:32]))
+
+data_3$COUNT <- rowSums((data_3[3:32])>0)
 
 # Save the dataframe in RDS file
 saveRDS(data_3,"KL_Count_YearWise.RDS")
