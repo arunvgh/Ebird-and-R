@@ -18,7 +18,7 @@ ebdfile <- paste0("ebd_IN-KL_rel",month.abb[CurMonth],"-",CurYear)
 # List the interested columns
 
 preimp <- c(
-              "CATEGORY","SCIENTIFIC.NAME","COMMON.NAME","OBSERVATION.COUNT","STATE","APPROVED",
+              "TAXONOMIC.ORDER","CATEGORY","SCIENTIFIC.NAME","COMMON.NAME","OBSERVATION.COUNT","STATE","APPROVED",
               "OBSERVATION.DATE","GROUP.IDENTIFIER","SAMPLING.EVENT.IDENTIFIER"
             )
 
@@ -67,7 +67,7 @@ ebd <- ebd %>%
 # Remove STATE and APPROVED column and downsize data
 ebd <- ebd %>% 
             select (
-              CATEGORY, SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,OBSERVATION.DATE,
+              CATEGORY, TAXONOMIC.ORDER, SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,OBSERVATION.DATE,
               GROUP.IDENTIFIER,SAMPLING.EVENT.IDENTIFIER)
 
 ebd = ebd %>%
@@ -79,7 +79,7 @@ ebd = ebd %>%
 # Remove OBSERVATION.DATE column and downsize data
 ebd <- ebd %>% 
               select (
-                CATEGORY, SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,
+                CATEGORY, TAXONOMIC.ORDER, SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,
                 GROUP.IDENTIFIER,SAMPLING.EVENT.IDENTIFIER)
 
 ebd <- ebd %>%
@@ -97,23 +97,23 @@ ebd <- ebd %>%
 
 # Remove SAMPLING.EVENT.IDENTIFIER & GROUP.IDENTIFIER as its not needed anymore          
 ebd <- ebd %>% 
-              distinct (CATEGORY,SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,GROUP.ID)
+              distinct (CATEGORY,TAXONOMIC.ORDER,SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,GROUP.ID)
 
 ebd <- ebd %>%
               filter (CATEGORY %in% c('species','issf','domestic'))
   
 # Remove CATEGORY as its not needed anymore          
 ebd <- ebd %>% 
-              distinct (SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,GROUP.ID)
+              distinct (TAXONOMIC.ORDER,SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,GROUP.ID)
 
 ebd_f <- ebd
 
 ebd_f$OBSERVATION.COUNT <- 1
   
 data_1 <- ebd_f %>%
-                  group_by(SCIENTIFIC.NAME,COMMON.NAME,YEAR) %>%
+                  group_by(TAXONOMIC.ORDER,SCIENTIFIC.NAME,COMMON.NAME,YEAR) %>%
                   summarize(count = sum(OBSERVATION.COUNT)) %>%
-                  arrange(YEAR, COMMON.NAME, SCIENTIFIC.NAME, desc(count))
+                  arrange(YEAR, TAXONOMIC.ORDER,COMMON.NAME, SCIENTIFIC.NAME, desc(count))
 
 data_2 <- pivot_wider(data_1, names_from = YEAR, values_from = count )
 
