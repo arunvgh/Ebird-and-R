@@ -113,14 +113,25 @@ ebd_f$OBSERVATION.COUNT <- 1
 data_1 <- ebd_f %>%
                   group_by(TAXONOMIC.ORDER,SCIENTIFIC.NAME,COMMON.NAME,YEAR) %>%
                   summarize(count = sum(OBSERVATION.COUNT)) %>%
-                  arrange(YEAR, TAXONOMIC.ORDER,COMMON.NAME, SCIENTIFIC.NAME, desc(count))
+                  arrange(YEAR,TAXONOMIC.ORDER,SCIENTIFIC.NAME,COMMON.NAME,desc(count))
 
-data_2 <- pivot_wider(data_1, names_from = YEAR, values_from = count )
-
+data_2 <- pivot_wider(data_1, names_from = YEAR, values_from = count)
+data_2 <- data_2[order(data_2$TAXONOMIC.ORDER),]
 data_2[is.na(data_2)] <- 0
 
 data_3 <- data_2 %>%
                   mutate(COUNT = NA)
+data_3 = subset(data_3, select = -c(TAXONOMIC.ORDER) )
+
+unique_rows <- !duplicated(data_3[c("SCIENTIFIC.NAME","COMMON.NAME")])
+
+unique.data_3 <- data_3[unique_rows,]
+
+data_4 <- data_3 %>% 
+  group_by(SCIENTIFIC.NAME,COMMON.NAME) %>% 
+  summarise(across(everything(), sum), .groups = 'drop')
+
+
 
 # data_3$COUNT <- rowSums(!is.na(data_3[3:32]))
 
