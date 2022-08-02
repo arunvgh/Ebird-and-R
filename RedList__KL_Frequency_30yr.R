@@ -57,6 +57,8 @@ ebd <- read.delim(paste0(ebdfile,".txt"),
                   stringsAsFactors = F, 
                   na.strings = c ("", " ",NA))
 
+# write.csv(ebd,"D:/ArunV/R Programming Ebird/KL_Source.csv", row.names = FALSE)
+
 save(ebd, file = "KL_RedListData_30YR.RData")
 
 # load("KL_RedListData_30YR.RData")
@@ -67,38 +69,36 @@ save(ebd, file = "KL_RedListData_30YR.RData")
 
 # Remove unapproved species (typically Exotics)
 ebd <- ebd %>%
-  filter (APPROVED == 1)
+          filter (APPROVED == 1)
 
 # Remove STATE and APPROVED column and downsize data
 ebd <- ebd %>% 
-  select (
-    CATEGORY, TAXONOMIC.ORDER, SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,OBSERVATION.DATE,
-    GROUP.IDENTIFIER,SAMPLING.EVENT.IDENTIFIER)
+            select (
+            CATEGORY, TAXONOMIC.ORDER, SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,
+            OBSERVATION.DATE,GROUP.IDENTIFIER,SAMPLING.EVENT.IDENTIFIER)
 
 ebd = ebd %>%
-  mutate (
-    OBSERVATION.DATE = as.Date(OBSERVATION.DATE),
-    YEAR  = year(OBSERVATION.DATE)
-  )
+          mutate (
+          OBSERVATION.DATE = as.Date(OBSERVATION.DATE),
+          YEAR  = year(OBSERVATION.DATE))
 
 # Remove OBSERVATION.DATE column and downsize data
 ebd <- ebd %>% 
-  select (
-    CATEGORY, TAXONOMIC.ORDER, SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,
-    GROUP.IDENTIFIER,SAMPLING.EVENT.IDENTIFIER)
+            select (
+            CATEGORY, TAXONOMIC.ORDER, SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,
+            GROUP.IDENTIFIER,SAMPLING.EVENT.IDENTIFIER)
 
 ebd <- ebd %>%
-  filter (YEAR >= CurYear-30 & YEAR < CurYear)
+          filter (YEAR >= CurYear-30 & YEAR < CurYear)
 
 # Add GROUP.ID for finding unique lists to help remove duplicate checklist
 ebd <- ebd %>% 
-  mutate (
-    GROUP.ID = ifelse (
-      is.na(GROUP.IDENTIFIER), 
-      SAMPLING.EVENT.IDENTIFIER,
-      GROUP.IDENTIFIER
-    )
-  )
+          mutate (
+                  GROUP.ID = ifelse (
+                              is.na(GROUP.IDENTIFIER), 
+                              SAMPLING.EVENT.IDENTIFIER,
+                              GROUP.IDENTIFIER)
+                 )
 
 # Remove SAMPLING.EVENT.IDENTIFIER & GROUP.IDENTIFIER as its not needed anymore          
 ebd <- ebd %>% 
@@ -107,18 +107,15 @@ ebd <- ebd %>%
 ebd <- ebd %>%
   filter (CATEGORY %in% c('species','issf','domestic'))
 
-# Remove GROUP.ID as its not needed anymore          
-ebd <- ebd %>% 
-  distinct (CATEGORY,TAXONOMIC.ORDER,SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR)
-
-# To be used later
+# To be used later for getting Taxonomic Order and Scientific Names
 ebd_d <- ebd
 
 # Remove CATEGORY, TAXONOMIC.ORDER, as its not needed anymore          
 ebd <- ebd %>% 
-  distinct (SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR)
+          distinct (SCIENTIFIC.NAME,COMMON.NAME,OBSERVATION.COUNT,YEAR,GROUP.ID)
 
 ebd_f <- ebd
+
 ebd_f$OBSERVATION.COUNT <- 1
 
 data_1 <- ebd_f %>%
@@ -127,28 +124,32 @@ data_1 <- ebd_f %>%
                 arrange(YEAR, SCIENTIFIC.NAME,COMMON.NAME,desc(count))
 
 data_2 <- pivot_wider(data_1, names_from = YEAR, values_from = count )
+
 data_2[is.na(data_2)] <- 0
 
 data_3 <- data_2 %>%
-  group_by(SCIENTIFIC.NAME,COMMON.NAME) %>%
-  summarise_all(sum) %>%
-  mutate(COUNT = NA)
+                group_by(SCIENTIFIC.NAME,COMMON.NAME) %>%
+                summarise_all(sum) %>%
+                mutate(COUNT = NA)
 
 data_3$COUNT <- rowSums((data_3[3:32])>0)
 
 # Generate Data Set for Scientific Names and Taxonomic Order
 ebd_d1 <- ebd_d %>% 
-                distinct (TAXONOMIC.ORDER, SCIENTIFIC.NAME,CATEGORY)
-ebd_d1 <- ebd_d1[order(ebd_d1$TAXONOMIC.ORDER),]
-ebd_d1 <- ebd_d1 %>%
+                distinct(TAXONOMIC.ORDER, SCIENTIFIC.NAME,CATEGORY) %>%
+                arrange(TAXONOMIC.ORDER) %>%
                 group_by(SCIENTIFIC.NAME) %>%
                 mutate(rank = rank(SCIENTIFIC.NAME, ties.method = "first"))
+
 ebd_d1 <- ebd_d1[!(ebd_d1$rank==2 | ebd_d1$rank==3),]
+
+ebd_d1 <- ebd_d1 %>%
+                  select(-c(CATEGORY,rank))
 
 # Final Data with Taxonomic Order
 data_4 <- join(data_3, ebd_d1, by="SCIENTIFIC.NAME")
+
 data_4 <- data_4 %>%
-                select(-c(CATEGORY,rank)) %>%
                 select(TAXONOMIC.ORDER, everything()) %>% 
                 arrange(TAXONOMIC.ORDER)
 
