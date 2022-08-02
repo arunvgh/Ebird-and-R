@@ -147,10 +147,10 @@ ebd_d1 <- ebd_d1[!(ebd_d1$rank==2 | ebd_d1$rank==3),]
 
 # Final Data with Taxonomic Order
 data_4 <- join(data_3, ebd_d1, by="SCIENTIFIC.NAME")
-data_4 = subset(data_4, select = -c(CATEGORY,rank) )
 data_4 <- data_4 %>%
-                select(TAXONOMIC.ORDER, everything())
-data_4 <- data_4[order(data_4$TAXONOMIC.ORDER),]
+                select(-c(CATEGORY,rank)) %>%
+                select(TAXONOMIC.ORDER, everything()) %>% 
+                arrange(TAXONOMIC.ORDER)
 
 # Save the dataframe in RDS file
 saveRDS(data_4,"KL_Count_YearWise.RDS")
