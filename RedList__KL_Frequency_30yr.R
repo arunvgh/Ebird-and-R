@@ -89,7 +89,7 @@ ebd <- ebd %>%
             GROUP.IDENTIFIER,SAMPLING.EVENT.IDENTIFIER)
 
 ebd <- ebd %>%
-          filter (YEAR >= CurYear-30 & YEAR < CurYear)
+          filter (YEAR >= CurYear-20 & YEAR < CurYear)
 
 # Add GROUP.ID for finding unique lists to help remove duplicate checklist
 ebd <- ebd %>% 
@@ -130,9 +130,14 @@ data_2[is.na(data_2)] <- 0
 data_3 <- data_2 %>%
                 group_by(SCIENTIFIC.NAME,COMMON.NAME) %>%
                 summarise_all(sum) %>%
-                mutate(COUNT = NA)
+                mutate(COUNT = NA) %>%
+                mutate(STATUS = NA)
 
-data_3$COUNT <- rowSums((data_3[3:32])>0)
+data_3$COUNT <- rowSums((data_3[3:22])>0)
+
+data_3$STATUS <- ifelse (rowSums((data_3[19:23])>0) == 5,'Recent','Sporadic')
+
+data_3$STATUS[data_3$COUNT > 19] <- "Regular"
 
 # Generate Data Set for Scientific Names and Taxonomic Order
 ebd_d1 <- ebd_d %>% 
@@ -151,7 +156,7 @@ data_4 <- join(data_3, ebd_d1, by="SCIENTIFIC.NAME")
 
 data_4 <- data_4 %>%
                 select(TAXONOMIC.ORDER, everything()) %>% 
-                arrange(TAXONOMIC.ORDER)
+                arrange(TAXONOMIC.ORDER) 
 
 # Save the dataframe in RDS file
 saveRDS(data_4,"KL_Count_YearWise.RDS")
