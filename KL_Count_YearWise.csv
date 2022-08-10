@@ -1,533 +1,533 @@
-"TAXONOMIC.ORDER","SCIENTIFIC.NAME","COMMON.NAME","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","COUNT","STATUS"
-226,"Dendrocygna bicolor","Fulvous Whistling-Duck",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,"Sporadic"
-233,"Dendrocygna javanica","Lesser Whistling-Duck",19,21,24,17,48,44,25,34,38,29,67,118,854,2086,2496,3032,3306,3791,4428,4253,20,"Regular"
-240,"Anser indicus","Bar-headed Goose",2,0,0,2,0,0,0,0,0,2,3,0,1,8,2,29,6,15,19,1,12,"Recent"
-354,"Sarkidiornis melanotos","Knob-billed Duck",0,1,1,0,0,0,0,0,0,0,1,5,0,8,11,44,11,4,12,17,11,"Recent"
-376,"Tadorna ferruginea","Ruddy Shelduck",0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,58,2,4,0,7,"Sporadic"
-401,"Nettapus coromandelianus","Cotton Pygmy-Goose",11,13,16,10,21,19,13,12,22,15,41,46,321,654,508,891,721,817,702,765,20,"Regular"
-425,"Spatula querquedula","Garganey",12,16,15,10,18,19,5,16,17,6,25,44,107,296,433,805,713,645,566,517,20,"Regular"
-443,"Spatula clypeata","Northern Shoveler",0,0,2,0,1,3,0,1,1,1,5,3,12,44,107,256,103,131,95,100,16,"Recent"
-447,"Mareca strepera","Gadwall",0,0,0,0,0,0,0,1,1,0,0,0,1,2,4,3,1,1,0,1,9,"Sporadic"
-454,"Mareca penelope","Eurasian Wigeon",0,0,1,0,0,0,1,0,2,1,0,1,2,6,12,47,8,5,5,3,13,"Recent"
-478,"Anas poecilorhyncha","Indian Spot-billed Duck",7,8,8,6,7,6,1,10,13,6,16,54,245,359,701,1221,816,808,852,674,20,"Regular"
-526,"Anas acuta","Northern Pintail",11,14,15,12,14,13,5,11,16,6,29,33,66,117,243,421,356,281,303,234,20,"Regular"
-541,"Anas crecca","Green-winged Teal",3,4,5,2,4,2,1,3,3,1,3,4,3,26,50,116,106,83,39,29,20,"Regular"
-595,"Aythya ferina","Common Pochard",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,"Sporadic"
-600,"Aythya nyroca","Ferruginous Duck",1,0,0,0,0,0,2,0,0,0,0,1,0,1,1,2,0,0,0,0,6,"Sporadic"
-609,"Aythya fuligula","Tufted Duck",0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,"Sporadic"
-1471,"Pavo cristatus","Indian Peafowl",3,4,2,1,6,4,13,38,14,23,19,30,274,725,1425,2175,1836,2248,4024,3748,20,"Regular"
-1494,"Galloperdix spadicea","Red Spurfowl",0,12,8,1,35,20,47,24,17,36,37,35,149,263,345,577,721,857,973,735,19,"Recent"
-1498,"Galloperdix lunulata","Painted Spurfowl",0,0,0,0,0,0,0,0,0,1,0,2,0,1,4,1,2,6,1,4,9,"Recent"
-1529,"Gallus sonneratii","Gray Junglefowl",8,37,21,5,101,61,165,118,106,144,117,117,301,551,714,1015,1190,1764,1256,1214,20,"Regular"
-1541,"Ortygornis pondicerianus","Gray Francolin",0,2,0,0,1,0,1,11,1,5,2,3,18,94,223,205,141,166,518,332,16,"Recent"
-1627,"Synoicus chinensis","Blue-breasted Quail",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,"Sporadic"
-1644,"Coturnix coromandelica","Rain Quail",0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,16,0,9,13,1,5,"Sporadic"
-1685,"Perdicula asiatica","Jungle Bush-Quail",1,0,0,0,1,1,2,2,0,2,1,1,26,30,17,16,7,8,41,30,16,"Recent"
-1695,"Perdicula erythrorhyncha","Painted Bush-Quail",1,1,4,0,6,1,7,6,5,2,11,9,11,21,26,37,43,38,28,41,19,"Recent"
-1745,"Phoenicopterus roseus","Greater Flamingo",0,0,2,0,0,0,0,0,0,0,0,0,4,54,23,56,73,83,32,1,9,"Recent"
-1747,"Phoeniconaias minor","Lesser Flamingo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,2,"Sporadic"
-1758,"Tachybaptus ruficollis","Little Grebe",9,21,19,7,29,25,9,11,15,8,47,73,377,603,851,1052,681,841,709,812,20,"Regular"
-1827,"Columba livia","Rock Pigeon",3,19,9,12,30,21,38,30,39,50,56,84,1574,4476,6605,8068,13960,12433,15617,13332,20,"Regular"
-1891,"Columba elphinstonii","Nilgiri Wood-Pigeon",1,8,2,0,16,15,22,24,20,17,32,29,41,52,69,87,123,156,63,134,19,"Recent"
-1988,"Streptopelia orientalis","Oriental Turtle-Dove",0,0,0,0,1,0,0,0,0,1,0,2,1,7,13,18,15,16,69,87,11,"Recent"
-1997,"Streptopelia decaocto","Eurasian Collared-Dove",0,0,0,0,1,1,1,0,0,0,2,1,1,3,0,2,3,4,2,2,12,"Recent"
-2024,"Streptopelia tranquebarica","Red Collared-Dove",0,0,0,0,0,0,0,0,0,0,0,0,4,11,9,9,11,7,3,4,8,"Recent"
-2034,"Streptopelia chinensis","Spotted Dove",10,40,11,13,80,39,97,107,61,97,119,116,1105,2217,3349,5128,5293,6240,8183,7932,20,"Regular"
-2039,"Streptopelia senegalensis","Laughing Dove",1,1,0,0,2,0,1,1,0,7,4,4,28,27,31,22,29,30,19,27,16,"Recent"
-2127,"Chalcophaps indica","Asian Emerald Dove",4,33,7,5,53,47,95,74,72,86,52,60,204,360,495,632,608,786,737,805,20,"Regular"
-2444,"Treron bicinctus","Orange-breasted Green-Pigeon",0,0,0,0,0,1,0,0,0,0,7,1,10,0,9,46,34,35,37,46,10,"Recent"
-2450,"Treron affinis","Gray-fronted Green-Pigeon",2,32,7,3,54,42,88,62,50,93,52,75,160,253,282,486,512,692,794,611,20,"Regular"
-2471,"Treron phoenicopterus","Yellow-footed Green-Pigeon",0,4,1,1,7,3,5,7,6,6,8,8,34,75,153,223,159,185,374,412,19,"Recent"
-2695,"Ducula aenea","Green Imperial-Pigeon",2,4,5,1,16,9,47,22,19,31,41,43,110,193,278,363,329,478,864,800,20,"Regular"
-2767,"Ducula badia","Mountain Imperial-Pigeon",1,43,12,1,54,52,135,63,69,86,50,43,73,128,156,285,426,552,300,305,20,"Regular"
-2809,"Pterocles exustus","Chestnut-bellied Sandgrouse",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"Sporadic"
-2866,"Chlamydotis macqueenii","Macqueen's Bustard",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sporadic"
-3055,"Centropus sinensis","Greater Coucal",11,34,16,48,121,101,182,136,115,148,113,136,1417,3929,6383,8843,9974,11595,17794,15298,20,"Regular"
-3074,"Centropus bengalensis","Lesser Coucal",0,1,0,0,2,1,4,1,4,1,1,1,36,33,69,71,126,156,169,210,17,"Recent"
-3100,"Taccocua leschenaultii","Sirkeer Malkoha",0,0,0,0,0,0,0,1,1,0,3,1,5,6,10,2,1,6,6,14,12,"Recent"
-3115,"Phaenicophaeus viridirostris","Blue-faced Malkoha",2,2,2,1,12,6,13,16,2,15,22,11,78,115,141,217,193,197,341,278,20,"Regular"
-3135,"Clamator coromandus","Chestnut-winged Cuckoo",0,2,4,1,3,0,4,4,0,1,2,2,6,3,3,11,7,8,13,14,17,"Recent"
-3138,"Clamator jacobinus","Pied Cuckoo",3,0,1,2,0,2,1,3,5,14,6,7,59,111,233,145,190,222,277,232,18,"Recent"
-3200,"Eudynamys scolopaceus","Asian Koel",6,12,13,49,78,69,91,74,41,63,53,92,1382,4295,5779,8078,13035,12082,16251,13693,20,"Regular"
-3282,"Cacomantis sonneratii","Banded Bay Cuckoo",2,0,0,0,2,5,6,20,15,25,12,15,33,59,107,154,221,361,666,472,17,"Recent"
-3293,"Cacomantis passerinus","Gray-bellied Cuckoo",0,2,2,0,4,1,6,7,5,11,10,7,37,53,97,191,139,304,228,342,18,"Recent"
-3319,"Surniculus dicruroides","Fork-tailed Drongo-Cuckoo",2,2,2,0,6,3,6,13,14,9,17,17,47,59,75,107,145,152,179,185,19,"Recent"
-3333,"Hierococcyx sparverioides","Large Hawk-Cuckoo",0,0,0,0,4,2,3,3,1,2,2,1,6,4,14,6,4,3,8,3,16,"Recent"
-3336,"Hierococcyx varius","Common Hawk-Cuckoo",6,10,6,5,29,10,65,61,21,56,39,63,370,807,1395,1699,1849,2372,2543,3091,20,"Regular"
-3349,"Cuculus poliocephalus","Lesser Cuckoo",1,1,1,0,0,0,0,0,0,0,0,1,0,0,7,1,1,0,5,4,9,"Sporadic"
-3351,"Cuculus micropterus","Indian Cuckoo",1,3,1,1,5,2,16,11,2,10,8,3,58,122,122,166,127,235,161,166,20,"Regular"
-3359,"Cuculus canorus","Common Cuckoo",0,0,0,0,0,0,1,0,1,0,0,0,2,5,53,55,78,40,200,49,10,"Recent"
-3391,"Batrachostomus moniliger","Sri Lanka Frogmouth",3,3,6,2,11,11,18,17,22,27,36,40,90,130,139,170,192,297,187,177,20,"Regular"
-3413,"Lyncornis macrotis","Great Eared-Nightjar",1,1,3,0,5,3,13,14,11,10,6,16,26,31,23,51,74,181,74,73,19,"Recent"
-3581,"Caprimulgus indicus","Jungle Nightjar",1,4,2,0,3,5,6,5,0,4,6,3,17,18,60,87,78,135,98,115,18,"Recent"
-3624,"Caprimulgus atripennis","Jerdon's Nightjar",2,2,4,0,9,6,6,17,6,10,9,17,33,45,90,180,223,338,464,379,19,"Recent"
-3643,"Caprimulgus asiaticus","Indian Nightjar",1,1,1,0,1,1,0,0,1,1,2,1,11,8,28,46,40,75,75,59,17,"Recent"
-3656,"Caprimulgus affinis","Savanna Nightjar",0,1,2,0,0,1,3,2,1,3,0,1,7,6,30,56,111,118,112,90,16,"Recent"
-3775,"Zoonavena sylvatica","White-rumped Needletail",3,13,7,0,21,12,30,20,25,36,32,22,38,82,92,160,128,128,118,151,19,"Recent"
-3835,"Hirundapus giganteus","Brown-backed Needletail",2,3,0,0,11,5,18,17,18,24,16,19,32,81,87,113,85,145,241,247,18,"Recent"
-3894,"Aerodramus unicolor","Indian Swiftlet",6,40,5,1,54,59,69,47,82,97,55,69,121,296,581,685,590,826,715,713,20,"Regular"
-3985,"Apus melba","Alpine Swift",1,6,1,3,13,20,17,15,11,17,15,10,31,72,110,169,221,366,231,249,20,"Regular"
-4002,"Apus apus","Common Swift",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,4,"Sporadic"
-4038,"Apus leuconyx","Blyth's Swift",0,1,1,0,2,5,7,1,4,1,0,2,0,8,9,21,2,12,31,25,16,"Recent"
-4043,"Apus affinis","Little Swift",3,8,5,4,17,12,32,24,24,36,31,24,96,237,448,1007,914,1265,1627,1482,20,"Regular"
-4078,"Cypsiurus balasiensis","Asian Palm-Swift",2,9,7,10,29,18,45,53,15,43,25,35,306,995,1813,2338,2138,2763,5168,4355,20,"Regular"
-4105,"Hemiprocne coronata","Crested Treeswift",2,17,8,0,19,12,30,22,24,22,17,22,85,106,128,217,164,130,212,277,19,"Recent"
-5188,"Lewinia striata","Slaty-breasted Rail",2,0,0,0,0,0,0,0,0,0,1,1,7,18,30,48,21,75,77,72,11,"Recent"
-5314,"Porzana porzana","Spotted Crake",0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,2,"Sporadic"
-5321,"Gallinula chloropus","Eurasian Moorhen",4,5,8,4,13,8,7,7,4,6,17,8,90,91,198,361,209,232,282,250,20,"Regular"
-5346,"Fulica atra","Eurasian Coot",8,9,17,3,9,13,3,10,11,6,32,43,211,164,317,605,271,400,334,198,20,"Regular"
-5390,"Porphyrio poliocephalus","Gray-headed Swamphen",8,25,23,16,42,35,15,26,19,29,62,93,732,1405,1543,1798,1978,2276,1885,1947,20,"Regular"
-5404,"Gallicrex cinerea","Watercock",3,2,13,2,3,4,1,5,3,4,8,21,111,165,184,317,172,271,271,296,20,"Regular"
-5407,"Amaurornis phoenicurus","White-breasted Waterhen",25,31,35,48,77,66,44,42,45,53,62,116,775,1634,2382,3260,3977,4256,5315,5340,20,"Regular"
-5436,"Rallina eurizonoides","Slaty-legged Crake",0,0,1,0,0,0,0,2,0,0,0,0,3,5,11,10,16,21,45,58,10,"Recent"
-5445,"Zapornia fusca","Ruddy-breasted Crake",4,3,2,0,2,0,0,0,0,3,4,12,35,66,87,157,83,197,164,182,15,"Recent"
-5456,"Zapornia pusilla","Baillon's Crake",1,3,0,0,2,1,3,1,0,1,0,0,9,41,98,126,48,45,108,42,15,"Recent"
-5601,"Burhinus indicus","Indian Thick-knee",0,0,0,0,0,0,0,0,0,0,0,0,2,4,7,19,12,41,125,147,8,"Recent"
-5616,"Esacus recurvirostris","Great Thick-knee",0,0,0,0,0,0,0,0,0,2,0,1,1,4,8,9,11,5,25,71,10,"Recent"
-5619,"Himantopus himantopus","Black-winged Stilt",10,12,16,12,20,15,8,8,7,10,12,34,327,721,918,1110,1105,1194,620,896,20,"Regular"
-5633,"Recurvirostra avosetta","Pied Avocet",0,0,0,1,0,0,1,0,1,1,1,1,1,14,4,9,0,14,0,0,11,"Sporadic"
-5640,"Haematopus ostralegus","Eurasian Oystercatcher",1,0,0,0,1,0,0,0,0,3,5,7,6,25,14,16,18,32,49,32,13,"Recent"
-5664,"Pluvialis squatarola","Black-bellied Plover",1,2,6,1,3,3,2,0,3,6,5,10,28,22,16,29,43,141,115,95,19,"Recent"
-5668,"Pluvialis dominica","American Golden-Plover",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Sporadic"
-5669,"Pluvialis fulva","Pacific Golden-Plover",12,5,13,7,15,15,7,10,5,12,17,33,178,258,310,526,382,457,525,691,20,"Regular"
-5683,"Vanellus malabaricus","Yellow-wattled Lapwing",0,1,2,1,6,7,1,2,1,4,11,12,41,184,152,255,214,265,395,500,19,"Recent"
-5702,"Vanellus cinereus","Gray-headed Lapwing",0,1,0,0,0,1,0,3,1,1,3,8,10,34,20,32,35,40,69,69,15,"Recent"
-5703,"Vanellus indicus","Red-wattled Lapwing",26,40,24,23,87,86,49,65,49,83,85,152,1113,2637,3181,4140,4329,5044,5922,5595,20,"Regular"
-5714,"Vanellus leucurus","White-tailed Lapwing",1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,15,4,"Sporadic"
-5727,"Charadrius mongolus","Lesser Sand-Plover",3,4,10,4,15,15,3,6,11,25,19,29,162,332,207,410,381,685,659,675,20,"Regular"
-5735,"Charadrius leschenaultii","Greater Sand-Plover",3,1,3,0,1,3,1,4,5,15,10,18,98,145,52,151,140,256,225,205,19,"Recent"
-5740,"Charadrius asiaticus","Caspian Plover",0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,1,1,0,0,5,"Sporadic"
-5750,"Charadrius alexandrinus","Kentish Plover",6,7,3,5,10,9,6,5,7,14,8,15,69,111,95,176,163,193,207,230,20,"Regular"
-5767,"Charadrius hiaticula","Common Ringed Plover",0,0,0,0,0,0,0,0,0,0,0,0,9,11,10,15,13,23,18,27,8,"Recent"
-5775,"Charadrius dubius","Little Ringed Plover",6,7,9,11,25,25,7,13,6,23,17,30,117,276,410,544,470,645,598,695,20,"Regular"
-5825,"Rostratula benghalensis","Greater Painted-Snipe",3,1,1,0,4,3,0,0,0,1,3,3,14,42,54,103,48,64,64,79,16,"Recent"
-5835,"Hydrophasianus chirurgus","Pheasant-tailed Jacana",4,12,8,7,14,16,9,9,9,11,25,44,95,196,325,705,451,615,615,593,20,"Regular"
-5836,"Metopidius indicus","Bronze-winged Jacana",10,17,14,12,32,36,18,22,24,25,44,72,386,967,1167,1233,1308,1549,1473,1560,20,"Regular"
-5854,"Numenius phaeopus","Whimbrel",3,1,1,0,5,4,6,2,5,8,13,18,85,180,145,173,151,316,242,325,19,"Recent"
-5869,"Numenius arquata","Eurasian Curlew",4,2,5,4,3,2,2,6,2,0,4,9,43,48,92,94,82,110,81,52,19,"Recent"
-5875,"Limosa lapponica","Bar-tailed Godwit",1,0,2,0,5,1,1,2,0,2,0,5,4,23,27,25,44,17,43,32,16,"Recent"
-5880,"Limosa limosa","Black-tailed Godwit",2,4,1,3,4,3,0,4,1,1,5,12,87,136,187,250,245,326,164,290,19,"Recent"
-5891,"Arenaria interpres","Ruddy Turnstone",1,0,0,0,1,0,0,3,7,4,7,14,49,83,56,60,63,107,61,70,15,"Recent"
-5899,"Calidris tenuirostris","Great Knot",1,0,0,0,0,0,0,1,1,3,1,5,9,25,10,9,3,7,4,14,14,"Recent"
-5900,"Calidris canutus","Red Knot",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,4,0,3,"Sporadic"
-5911,"Calidris pugnax","Ruff",4,1,3,2,0,0,0,2,2,1,2,3,28,26,50,85,78,49,59,46,17,"Recent"
-5912,"Calidris falcinellus","Broad-billed Sandpiper",1,0,0,0,1,0,1,2,1,0,3,4,20,34,9,52,35,62,84,37,15,"Recent"
-5917,"Calidris ferruginea","Curlew Sandpiper",1,7,1,1,2,2,2,3,2,3,5,9,74,66,64,113,98,108,105,105,20,"Regular"
-5918,"Calidris temminckii","Temminck's Stint",10,6,6,3,4,2,1,2,0,4,9,9,53,78,112,216,199,242,203,285,19,"Recent"
-5919,"Calidris subminuta","Long-toed Stint",0,0,0,0,0,1,1,0,0,0,0,0,0,7,8,54,20,30,9,26,9,"Recent"
-5922,"Calidris alba","Sanderling",1,0,1,1,4,4,0,2,3,6,9,18,47,79,54,75,82,149,165,147,18,"Recent"
-5923,"Calidris alpina","Dunlin",1,0,1,1,1,3,1,1,0,0,3,2,5,15,6,18,15,15,46,16,17,"Recent"
-5946,"Calidris minuta","Little Stint",7,9,8,4,8,9,4,6,4,6,10,14,76,155,201,361,255,393,282,321,20,"Regular"
-5951,"Calidris subruficollis","Buff-breasted Sandpiper",0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,"Sporadic"
-5953,"Calidris melanotos","Pectoral Sandpiper",0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,2,1,0,0,0,3,"Sporadic"
-5961,"Limnodromus semipalmatus","Asian Dowitcher",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,1,"Sporadic"
-5966,"Limnodromus scolopaceus","Long-billed Dowitcher",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,"Sporadic"
-5968,"Lymnocryptes minimus","Jack Snipe",1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,4,"Sporadic"
-5969,"Scolopax rusticola","Eurasian Woodcock",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"Sporadic"
-5992,"Gallinago nemoricola","Wood Snipe",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Sporadic"
-5994,"Gallinago gallinago","Common Snipe",2,6,3,0,0,2,1,3,5,6,13,22,73,104,103,247,193,263,244,311,18,"Recent"
-6006,"Gallinago stenura","Pin-tailed Snipe",0,3,0,0,3,2,2,4,5,2,5,10,43,117,213,180,93,148,170,267,17,"Recent"
-6019,"Xenus cinereus","Terek Sandpiper",1,0,2,1,3,5,1,2,4,4,4,18,54,91,66,60,56,107,112,109,19,"Recent"
-6021,"Phalaropus lobatus","Red-necked Phalarope",0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,2,10,4,"Sporadic"
-6025,"Actitis hypoleucos","Common Sandpiper",28,29,23,21,64,64,30,32,42,62,81,110,666,1288,1462,2042,2124,2444,2214,2349,20,"Regular"
-6028,"Tringa ochropus","Green Sandpiper",19,16,12,10,26,25,16,18,23,36,40,49,125,219,281,472,489,522,561,534,20,"Regular"
-6035,"Tringa erythropus","Spotted Redshank",0,0,0,0,0,0,0,2,1,0,0,0,7,16,9,9,24,14,14,29,10,"Recent"
-6037,"Tringa nebularia","Common Greenshank",12,14,10,6,29,31,6,14,10,38,26,52,245,452,563,697,845,999,780,1056,20,"Regular"
-6045,"Tringa stagnatilis","Marsh Sandpiper",12,10,8,5,18,13,6,9,4,6,11,19,137,199,212,293,365,426,230,288,20,"Regular"
-6046,"Tringa glareola","Wood Sandpiper",25,25,20,17,28,42,21,21,18,35,57,82,443,1066,1278,1567,1601,1802,1631,1946,20,"Regular"
-6047,"Tringa totanus","Common Redshank",6,6,7,3,20,20,6,5,3,13,11,24,130,171,194,327,323,423,291,370,20,"Regular"
-6085,"Turnix tanki","Yellow-legged Buttonquail",0,1,0,0,0,0,1,0,0,2,0,0,0,1,0,1,3,1,6,4,9,"Recent"
-6091,"Turnix suscitator","Barred Buttonquail",0,0,0,0,0,0,1,0,0,0,2,1,1,5,3,8,21,21,19,25,11,"Recent"
-6124,"Dromas ardeola","Crab-Plover",0,0,0,0,0,0,1,0,0,1,1,5,8,5,5,7,0,35,8,1,11,"Sporadic"
-6152,"Glareola pratincola","Collared Pratincole",0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,6,3,7,11,11,8,"Recent"
-6156,"Glareola maldivarum","Oriental Pratincole",0,0,0,0,0,1,0,1,0,1,0,3,4,6,2,16,6,10,19,6,12,"Recent"
-6165,"Glareola lactea","Small Pratincole",7,8,9,3,3,3,2,6,7,10,11,9,40,66,99,141,105,135,137,139,20,"Regular"
-6170,"Stercorarius maccormicki","South Polar Skua",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,"Sporadic"
-6171,"Stercorarius antarcticus","Brown Skua",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,"Sporadic"
-6176,"Stercorarius pomarinus","Pomarine Jaeger",0,0,0,0,0,0,2,0,0,0,3,2,0,2,7,21,15,2,6,4,10,"Recent"
-6177,"Stercorarius parasiticus","Parasitic Jaeger",0,0,0,0,0,0,1,0,3,7,14,5,7,37,15,43,37,10,12,16,13,"Recent"
-6179,"Stercorarius longicaudus","Long-tailed Jaeger",0,0,0,0,0,0,0,0,0,2,5,0,0,2,2,2,1,0,0,0,6,"Sporadic"
-6254,"Rissa tridactyla","Black-legged Kittiwake",0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,2,"Sporadic"
-6260,"Xema sabini","Sabine's Gull",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,"Sporadic"
-6266,"Chroicocephalus genei","Slender-billed Gull",0,0,1,1,0,0,0,0,0,3,0,3,5,25,67,42,38,111,41,32,12,"Recent"
-6285,"Chroicocephalus ridibundus","Black-headed Gull",3,4,7,3,17,11,2,4,6,19,12,13,57,163,231,158,226,273,141,178,20,"Regular"
-6288,"Chroicocephalus brunnicephalus","Brown-headed Gull",2,5,3,3,13,11,4,4,6,23,17,16,61,177,220,154,301,347,254,258,20,"Regular"
-6309,"Ichthyaetus ichthyaetus","Pallas's Gull",2,1,0,1,9,3,3,2,1,5,3,3,6,23,19,34,73,36,34,35,19,"Recent"
-6318,"Larus canus","Common Gull",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,3,"Sporadic"
-6352,"Larus cachinnans","Caspian Gull",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,"Sporadic"
-6368,"Larus fuscus","Lesser Black-backed Gull",0,0,2,1,4,3,3,4,5,10,5,10,43,90,80,120,188,227,244,286,18,"Recent"
-6410,"Anous stolidus","Brown Noddy",0,0,1,0,0,0,0,0,0,0,3,2,2,0,0,0,1,0,1,0,6,"Sporadic"
-6426,"Anous tenuirostris","Lesser Noddy",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,5,"Sporadic"
-6440,"Gygis alba","White Tern",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,3,"Sporadic"
-6446,"Onychoprion fuscatus","Sooty Tern",0,0,0,0,0,0,0,0,0,4,2,1,4,0,0,0,0,2,4,2,7,"Sporadic"
-6456,"Onychoprion anaethetus","Bridled Tern",0,0,1,0,0,0,0,0,2,28,23,11,12,30,18,26,10,12,17,5,13,"Recent"
-6465,"Sternula albifrons","Little Tern",1,8,5,1,1,2,3,2,3,3,4,5,33,62,27,136,150,113,92,103,20,"Regular"
-6493,"Gelochelidon nilotica","Gull-billed Tern",2,6,8,2,14,9,6,4,8,9,10,17,73,156,188,259,230,237,194,159,20,"Regular"
-6501,"Hydroprogne caspia","Caspian Tern",1,0,0,0,1,2,0,0,0,0,0,0,3,20,9,58,30,72,33,18,11,"Recent"
-6503,"Chlidonias niger","Black Tern",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Sporadic"
-6506,"Chlidonias leucopterus","White-winged Tern",0,0,0,0,0,0,0,0,0,0,2,1,2,6,1,19,4,2,12,5,10,"Recent"
-6507,"Chlidonias hybrida","Whiskered Tern",35,33,42,22,58,55,40,45,49,65,76,124,792,1412,1794,2046,2621,2042,1716,1899,20,"Regular"
-6513,"Sterna dougallii","Roseate Tern",0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,2,"Sporadic"
-6523,"Sterna sumatrana","Black-naped Tern",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,"Sporadic"
-6526,"Sterna hirundo","Common Tern",0,0,0,0,2,2,3,4,4,9,3,9,34,66,51,85,90,116,77,85,16,"Recent"
-6549,"Sterna acuticauda","Black-bellied Tern",1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,0,0,0,0,3,"Sporadic"
-6550,"Sterna aurantia","River Tern",1,8,10,2,20,9,21,16,7,28,16,27,137,242,275,395,378,393,397,303,20,"Regular"
-6556,"Thalasseus bergii","Great Crested Tern",1,1,0,1,1,1,3,2,3,15,7,13,27,101,52,95,81,203,199,166,19,"Recent"
-6561,"Thalasseus sandvicensis","Sandwich Tern",1,0,0,2,1,0,1,1,5,5,3,2,7,31,22,19,12,31,25,19,17,"Recent"
-6569,"Thalasseus bengalensis","Lesser Crested Tern",1,1,2,1,2,2,3,2,4,14,11,9,35,103,56,117,85,195,177,150,20,"Regular"
-6592,"Phaethon lepturus","White-tailed Tropicbird",0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,4,"Sporadic"
-6599,"Phaethon aethereus","Red-billed Tropicbird",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,2,2,0,0,6,"Sporadic"
-6685,"Oceanites oceanicus","Wilson's Storm-Petrel",0,0,0,0,0,0,0,0,0,15,14,5,1,29,10,29,0,27,2,1,10,"Sporadic"
-6732,"Hydrobates monorhis","Swinhoe's Storm-Petrel",0,0,0,0,0,0,0,0,0,9,14,3,4,19,2,3,1,6,0,0,9,"Sporadic"
-6846,"Bulweria fallax","Jouanin's Petrel",0,0,0,0,0,0,0,1,0,4,0,0,0,1,0,0,0,1,0,0,4,"Sporadic"
-6862,"Calonectris leucomelas","Streaked Shearwater",0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,2,"Sporadic"
-6863,"Calonectris diomedea","Cory's Shearwater",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,"Sporadic"
-6869,"Ardenna carneipes","Flesh-footed Shearwater",0,0,1,0,0,0,0,0,2,11,15,16,14,14,15,5,0,2,2,2,12,"Sporadic"
-6872,"Ardenna pacifica","Wedge-tailed Shearwater",0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,2,"Sporadic"
-6875,"Ardenna tenuirostris","Short-tailed Shearwater",0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,2,"Sporadic"
-6909,"Puffinus bailloni","Tropical Shearwater",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,"Sporadic"
-6916,"Puffinus persicus","Persian Shearwater",0,0,0,0,0,0,0,0,0,3,0,0,3,1,0,0,0,0,0,0,3,"Sporadic"
-6936,"Anastomus oscitans","Asian Openbill",19,24,25,12,37,37,16,23,17,37,45,80,508,990,1227,1807,1950,2138,2231,2292,20,"Regular"
-6940,"Ciconia nigra","Black Stork",0,0,0,0,0,1,1,0,0,0,2,0,1,1,9,6,8,12,2,5,11,"Recent"
-6942,"Ciconia episcopus","Woolly-necked Stork",4,11,9,4,20,18,7,11,8,16,39,46,175,323,474,774,929,1301,971,1177,20,"Regular"
-6949,"Ciconia ciconia","White Stork",0,0,0,0,0,1,0,0,1,0,1,7,13,17,35,29,47,54,6,13,12,"Recent"
-6959,"Leptoptilos javanicus","Lesser Adjutant",0,0,0,0,2,0,0,0,0,1,0,1,0,1,1,2,3,2,0,1,9,"Sporadic"
-6966,"Mycteria leucocephala","Painted Stork",2,2,2,1,2,4,1,10,1,9,18,33,227,232,307,686,574,635,549,455,20,"Regular"
-6970,"Fregata ariel","Lesser Frigatebird",0,0,0,0,0,0,1,1,0,1,0,1,0,3,0,3,0,0,2,0,7,"Sporadic"
-6979,"Fregata andrewsi","Christmas Island Frigatebird",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,2,"Sporadic"
-6980,"Fregata minor","Great Frigatebird",0,0,0,0,1,2,0,1,0,0,0,0,0,1,0,1,0,1,0,0,6,"Sporadic"
-6987,"Sula dactylatra","Masked Booby",0,0,0,0,0,0,0,0,3,1,3,0,3,4,0,1,0,0,18,15,8,"Sporadic"
-7005,"Sula sula","Red-footed Booby",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,3,"Sporadic"
-7021,"Anhinga melanogaster","Oriental Darter",18,38,43,19,63,49,53,45,52,38,79,145,986,1739,1893,2769,3210,3114,2727,2670,20,"Regular"
-7031,"Microcarbo niger","Little Cormorant",44,52,53,51,145,125,84,74,96,121,143,226,1948,4292,4715,6102,6991,7649,8173,7696,20,"Regular"
-7042,"Phalacrocorax carbo","Great Cormorant",6,11,6,3,22,16,16,14,11,18,25,24,83,147,212,167,172,256,296,219,20,"Regular"
-7058,"Phalacrocorax fuscicollis","Indian Cormorant",24,23,25,16,34,28,23,28,26,35,54,87,544,985,989,1369,1569,2114,1976,1814,20,"Regular"
-7116,"Pelecanus philippensis","Spot-billed Pelican",1,0,0,1,3,0,0,0,0,0,1,4,75,47,33,215,153,175,127,170,13,"Recent"
-7128,"Botaurus stellaris","Great Bittern",0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2,0,1,0,0,5,"Sporadic"
-7133,"Ixobrychus sinensis","Yellow Bittern",8,6,5,3,3,6,5,6,1,5,10,16,77,132,176,336,202,249,231,228,20,"Regular"
-7141,"Ixobrychus cinnamomeus","Cinnamon Bittern",10,3,7,4,5,6,3,6,2,3,6,20,37,67,115,144,70,114,212,176,20,"Regular"
-7145,"Ixobrychus flavicollis","Black Bittern",10,7,6,3,8,10,6,4,2,8,3,20,58,105,124,121,64,162,139,150,20,"Regular"
-7176,"Ardea cinerea","Gray Heron",20,23,21,12,51,45,14,23,21,24,60,77,591,995,1402,1992,1836,2012,1699,1856,20,"Regular"
-7193,"Ardea purpurea","Purple Heron",34,30,37,24,58,63,27,47,36,51,87,116,1066,2200,2695,3081,3671,3967,4244,4278,20,"Regular"
-7200,"Ardea alba","Great Egret",25,26,30,23,60,63,24,33,36,48,90,122,708,1570,1802,2256,2670,3326,3362,3437,20,"Regular"
-7207,"Ardea intermedia","Intermediate Egret",38,37,34,22,93,82,52,45,53,68,87,145,1189,2279,2532,3042,3823,4377,4596,4161,20,"Regular"
-7217,"Egretta garzetta","Little Egret",45,53,37,30,100,100,77,70,61,87,125,187,1468,2915,3838,4516,5773,5940,5807,5072,20,"Regular"
-7221,"Egretta gularis","Western Reef-Heron",4,4,6,5,17,21,9,10,22,15,18,35,160,307,301,434,694,698,343,403,20,"Regular"
-7247,"Bubulcus ibis","Cattle Egret",37,55,38,44,122,106,69,75,77,85,100,172,1618,2975,5050,7566,9010,8883,8908,9222,20,"Regular"
-7253,"Ardeola grayii","Indian Pond-Heron",46,79,55,41,158,138,136,103,110,155,172,270,2656,6055,8438,9573,12370,12434,13169,11778,20,"Regular"
-7254,"Ardeola bacchus","Chinese Pond-Heron",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,1,"Sporadic"
-7267,"Butorides striata","Striated Heron",5,4,3,2,26,22,16,10,15,12,17,21,97,176,204,251,304,336,246,304,20,"Regular"
-7305,"Nycticorax nycticorax","Black-crowned Night-Heron",13,12,12,4,23,14,13,12,20,15,21,52,254,384,682,1000,1502,1628,1785,1650,20,"Regular"
-7332,"Gorsachius melanolophus","Malayan Night-Heron",0,0,0,0,1,4,0,2,1,4,1,3,0,4,2,7,4,6,2,2,14,"Recent"
-7346,"Plegadis falcinellus","Glossy Ibis",5,4,8,3,4,2,2,8,4,6,18,48,304,423,484,938,821,749,704,803,20,"Regular"
-7374,"Threskiornis melanocephalus","Black-headed Ibis",16,15,25,10,26,28,14,16,24,29,54,85,692,1583,2073,2757,3101,4112,4290,4123,20,"Regular"
-7379,"Pseudibis papillosa","Red-naped Ibis",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,4,2,4,6,"Sporadic"
-7398,"Platalea leucorodia","Eurasian Spoonbill",0,0,1,0,6,0,0,0,2,2,7,5,84,68,128,300,146,138,93,62,14,"Recent"
-7429,"Pandion haliaetus","Osprey",2,6,7,6,17,12,17,9,12,11,21,25,81,163,194,282,323,330,304,304,20,"Regular"
-7438,"Elanus caeruleus","Black-winged Kite",5,6,4,1,11,8,18,12,7,11,21,24,30,67,130,209,160,297,99,256,20,"Regular"
-7459,"Neophron percnopterus","Egyptian Vulture",0,1,0,1,0,0,0,1,1,2,0,0,0,0,0,0,0,1,22,0,7,"Sporadic"
-7476,"Pernis ptilorhynchus","Oriental Honey-buzzard",3,12,5,2,31,22,63,42,54,76,45,64,139,263,415,573,708,959,1347,1238,20,"Regular"
-7498,"Aviceda jerdoni","Jerdon's Baza",0,1,0,0,0,0,1,1,1,0,0,0,0,1,2,4,0,0,4,6,9,"Sporadic"
-7518,"Aviceda leuphotes","Black Baza",3,2,3,0,4,11,15,13,18,15,15,28,52,66,90,79,128,146,112,131,19,"Recent"
-7523,"Sarcogyps calvus","Red-headed Vulture",0,0,0,0,1,1,0,0,3,0,0,1,6,10,13,32,3,6,5,9,12,"Recent"
-7532,"Gyps bengalensis","White-rumped Vulture",0,1,0,1,0,1,1,0,6,0,0,1,13,13,21,41,8,8,11,9,14,"Recent"
-7533,"Gyps indicus","Indian Vulture",0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,2,0,1,5,"Sporadic"
-7539,"Gyps himalayensis","Himalayan Griffon",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2,3,"Sporadic"
-7540,"Gyps fulvus","Eurasian Griffon",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,"Sporadic"
-7554,"Spilornis cheela","Crested Serpent-Eagle",6,35,8,3,64,41,118,55,80,116,50,86,320,609,932,1536,1628,1948,2297,2333,20,"Regular"
-7584,"Circaetus gallicus","Short-toed Snake-Eagle",0,2,1,0,0,0,1,2,2,2,3,0,10,8,10,7,7,17,6,10,15,"Recent"
-7601,"Nisaetus cirrhatus","Changeable Hawk-Eagle",6,13,5,0,12,9,14,18,19,24,20,28,82,129,231,428,546,737,790,821,19,"Recent"
-7613,"Nisaetus kelaarti","Legge's Hawk-Eagle",1,2,1,0,2,2,3,4,2,6,6,9,8,29,10,26,21,26,34,28,19,"Recent"
-7624,"Lophotriorchis kienerii","Rufous-bellied Eagle",3,10,2,0,9,8,13,9,11,16,12,9,23,59,48,59,82,103,92,104,19,"Recent"
-7637,"Ictinaetus malaiensis","Black Eagle",1,18,4,0,42,25,55,28,47,53,36,36,96,184,262,369,369,479,412,539,19,"Recent"
-7641,"Clanga hastata","Indian Spotted Eagle",0,0,0,0,1,1,0,1,1,2,6,9,14,15,17,31,16,8,26,9,15,"Recent"
-7642,"Clanga clanga","Greater Spotted Eagle",0,1,0,2,2,1,2,3,3,6,8,7,24,29,48,118,171,136,162,135,18,"Recent"
-7647,"Hieraaetus pennatus","Booted Eagle",0,7,4,2,8,10,23,20,25,32,28,17,70,95,162,315,378,409,695,644,19,"Recent"
-7655,"Aquila nipalensis","Steppe Eagle",0,3,0,0,1,2,1,1,1,3,0,1,6,0,0,10,6,2,1,2,14,"Recent"
-7660,"Aquila heliaca","Imperial Eagle",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sporadic"
-7674,"Aquila fasciata","Bonelli's Eagle",2,2,2,0,4,4,3,5,5,4,7,3,10,23,11,15,29,74,49,54,19,"Recent"
-7713,"Butastur teesa","White-eyed Buzzard",0,0,0,0,1,1,3,3,1,2,0,1,3,1,11,27,31,19,21,23,15,"Recent"
-7716,"Circus aeruginosus","Eurasian Marsh-Harrier",17,28,18,10,32,34,16,26,21,32,33,40,165,359,346,675,953,773,675,615,20,"Regular"
-7720,"Circus spilonotus","Eastern Marsh-Harrier",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"Sporadic"
-7734,"Circus macrourus","Pallid Harrier",0,1,1,0,5,3,4,4,8,5,14,4,5,4,28,14,16,30,12,9,18,"Recent"
-7736,"Circus melanoleucos","Pied Harrier",0,1,0,0,0,1,1,1,0,0,0,0,2,0,0,2,7,27,3,4,10,"Recent"
-7737,"Circus pygargus","Montagu's Harrier",0,2,0,0,5,2,0,1,0,1,1,0,1,2,16,17,10,10,5,5,14,"Recent"
-7742,"Accipiter trivirgatus","Crested Goshawk",1,4,7,2,11,15,26,28,27,38,35,32,41,121,168,205,211,216,330,299,20,"Regular"
-7769,"Accipiter badius","Shikra",6,5,4,30,47,32,50,36,35,56,46,45,403,853,1572,2209,2627,2604,3503,3010,20,"Regular"
-7856,"Accipiter virgatus","Besra",1,10,1,0,12,9,10,6,11,9,5,4,2,15,11,14,8,31,14,31,19,"Recent"
-7885,"Accipiter nisus","Eurasian Sparrowhawk",0,2,0,1,0,0,0,2,0,0,1,1,2,1,4,3,4,6,13,6,13,"Recent"
-7948,"Milvus migrans","Black Kite",5,14,8,50,80,84,69,51,35,53,64,72,885,2538,3348,4504,6907,7358,10415,7075,20,"Regular"
-7961,"Haliastur indus","Brahminy Kite",20,51,34,46,156,90,67,76,74,133,131,203,1814,5308,8230,9679,14390,13600,18241,15014,20,"Regular"
-7974,"Haliaeetus leucogaster","White-bellied Sea-Eagle",0,1,0,1,7,11,0,2,2,13,5,1,9,49,59,91,121,190,338,414,17,"Recent"
-7978,"Haliaeetus humilis","Lesser Fish-Eagle",1,1,1,0,11,1,19,5,5,7,5,6,22,35,37,37,27,93,18,33,19,"Recent"
-7981,"Haliaeetus ichthyaetus","Gray-headed Fish-Eagle",0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,1,0,0,1,2,6,"Sporadic"
-8123,"Buteo buteo","Common Buzzard",1,2,0,0,4,3,2,13,10,10,25,7,7,14,14,17,21,39,37,33,18,"Recent"
-8193,"Tyto alba","Barn Owl",1,0,0,0,2,2,0,2,2,4,3,6,45,76,56,117,284,327,463,221,16,"Recent"
-8234,"Phodilus assimilis","Sri Lanka Bay-Owl",2,0,0,0,1,2,0,4,1,2,6,7,13,16,13,17,40,53,43,26,16,"Recent"
-8263,"Otus bakkamoena","Indian Scops-Owl",2,3,1,1,18,5,15,12,13,9,13,21,62,124,159,183,195,432,647,606,20,"Regular"
-8339,"Otus brucei","Pallid Scops-Owl",0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,1,2,0,5,"Sporadic"
-8350,"Otus sunia","Oriental Scops-Owl",0,1,3,0,13,6,16,10,8,6,8,15,25,30,44,63,40,145,57,66,18,"Recent"
-8527,"Bubo nipalensis","Spot-bellied Eagle-Owl",1,1,0,1,3,1,5,4,4,4,3,6,9,15,20,35,34,53,38,66,19,"Recent"
-8549,"Ketupa zeylonensis","Brown Fish-Owl",2,4,0,1,9,5,15,12,8,13,18,15,44,79,127,182,187,259,243,229,19,"Recent"
-8638,"Glaucidium radiatum","Jungle Owlet",4,15,8,22,75,47,77,63,55,60,35,72,420,924,1253,1879,2473,3550,4021,2972,20,"Regular"
-8665,"Athene brama","Spotted Owlet",0,0,0,1,1,2,1,4,2,4,7,6,81,150,138,175,218,307,469,362,17,"Recent"
-8733,"Strix ocellata","Mottled Wood-Owl",1,2,3,0,7,4,3,9,5,8,11,8,40,79,77,219,382,289,433,387,19,"Recent"
-8737,"Strix leptogrammica","Brown Wood-Owl",0,0,2,0,0,2,0,0,1,3,2,0,3,11,12,63,57,66,103,71,13,"Recent"
-8829,"Asio flammeus","Short-eared Owl",0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,4,"Sporadic"
-8903,"Ninox scutulata","Brown Boobook",2,9,3,0,19,12,21,13,17,20,15,31,61,73,114,202,193,445,487,439,19,"Recent"
-9119,"Harpactes fasciatus","Malabar Trogon",2,17,10,3,58,39,86,61,68,104,63,82,147,248,329,503,444,611,515,475,20,"Regular"
-9161,"Upupa epops","Eurasian Hoopoe",3,2,0,1,4,3,9,5,1,11,10,13,47,66,138,205,194,222,329,315,19,"Recent"
-9273,"Buceros bicornis","Great Hornbill",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,"Sporadic"
-9278,"Ocyceros birostris","Indian Gray Hornbill",0,0,0,1,2,1,1,8,5,4,6,3,165,304,435,747,518,519,911,777,17,"Recent"
-9279,"Ocyceros griseus","Malabar Gray Hornbill",6,52,27,8,102,66,190,100,129,167,104,129,373,674,789,1501,1449,1808,1573,1390,20,"Regular"
-9284,"Anthracoceros coronatus","Malabar Pied-Hornbill",0,3,3,0,4,1,12,3,7,6,7,5,33,71,50,36,39,52,41,50,18,"Recent"
-9389,"Alcedo atthis","Common Kingfisher",4,27,22,15,87,75,46,48,55,78,96,135,1074,1963,2045,2631,2630,3380,3380,3790,20,"Regular"
-9406,"Alcedo meninting","Blue-eared Kingfisher",1,0,0,0,2,2,1,0,1,0,0,1,2,4,11,12,10,12,26,29,14,"Recent"
-9448,"Ceyx erithaca","Black-backed Dwarf-Kingfisher",0,0,0,0,1,2,1,1,3,1,4,4,4,6,13,15,41,42,26,27,16,"Recent"
-9524,"Pelargopsis capensis","Stork-billed Kingfisher",5,13,15,10,68,53,63,45,47,69,58,73,639,1441,1627,2003,2309,2901,2929,3119,20,"Regular"
-9558,"Halcyon smyrnensis","White-throated Kingfisher",13,53,33,68,198,154,175,136,114,164,161,209,2353,5645,8318,10430,12004,12900,17160,14134,20,"Regular"
-9571,"Halcyon pileata","Black-capped Kingfisher",3,2,2,2,6,4,6,3,11,11,5,2,22,56,44,64,61,52,49,70,20,"Regular"
-9783,"Ceryle rudis","Pied Kingfisher",9,20,11,8,49,42,15,18,21,38,49,53,315,698,746,854,860,995,995,978,20,"Regular"
-9802,"Nyctyornis athertoni","Blue-bearded Bee-eater",0,3,1,0,12,4,5,10,5,10,7,8,44,43,74,116,113,140,122,147,18,"Recent"
-9838,"Merops orientalis","Green Bee-eater",3,16,8,11,26,28,29,40,29,64,64,88,988,2172,2917,3879,4203,4787,6614,6378,20,"Regular"
-9851,"Merops viridis","Blue-throated Bee-eater",0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,"Sporadic"
-9853,"Merops persicus","Blue-cheeked Bee-eater",0,0,0,0,0,0,0,0,0,0,1,0,90,163,92,169,84,59,31,18,9,"Recent"
-9859,"Merops philippinus","Blue-tailed Bee-eater",4,16,6,11,31,20,34,36,36,53,67,103,732,2076,2285,3250,4525,4792,6136,5981,20,"Regular"
-9862,"Merops apiaster","European Bee-eater",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,"Sporadic"
-9863,"Merops leschenaulti","Chestnut-headed Bee-eater",5,25,7,4,49,35,83,64,55,83,56,85,302,529,663,1083,1049,1131,1330,1382,20,"Regular"
-9871,"Coracias garrulus","European Roller",3,0,0,0,0,0,0,0,0,0,5,1,3,5,0,7,11,2,21,21,10,"Recent"
-9882,"Coracias benghalensis","Indian Roller",4,12,6,2,13,8,11,18,15,25,20,39,231,487,642,765,713,1069,1174,1014,20,"Regular"
-9901,"Eurystomus orientalis","Dollarbird",1,11,7,1,13,6,31,25,13,26,16,36,72,124,119,162,148,205,150,120,20,"Regular"
-10220,"Psilopogon malabaricus","Malabar Barbet",5,53,9,4,66,35,139,81,63,87,48,79,167,291,401,650,705,983,868,750,20,"Regular"
-10222,"Psilopogon haemacephalus","Coppersmith Barbet",6,7,3,9,41,9,47,32,13,38,50,36,320,691,726,1285,1485,1644,1806,1628,20,"Regular"
-10273,"Psilopogon zeylanicus","Brown-headed Barbet",2,0,0,0,3,1,4,8,0,7,32,8,7,27,33,33,52,46,57,90,16,"Recent"
-10278,"Psilopogon viridis","White-cheeked Barbet",13,90,26,60,213,155,340,212,246,234,200,223,1963,5938,9300,13733,17932,18849,23812,18436,20,"Regular"
-10519,"Jynx torquilla","Eurasian Wryneck",0,0,0,0,1,1,2,1,1,1,0,0,1,1,10,1,3,8,37,9,14,"Recent"
-10528,"Picumnus innominatus","Speckled Piculet",0,4,0,0,6,10,6,5,6,11,2,5,4,20,21,28,32,30,36,45,17,"Recent"
-10632,"Hemicircus canente","Heart-spotted Woodpecker",2,24,14,4,53,31,68,58,68,88,38,59,154,240,309,411,426,526,508,480,20,"Regular"
-10736,"Yungipicus nanus","Brown-capped Pygmy Woodpecker",6,12,9,1,33,15,53,53,35,46,32,55,142,277,382,464,598,704,956,861,20,"Regular"
-10761,"Leiopicus mahrattensis","Yellow-crowned Woodpecker",3,1,0,0,4,3,2,3,5,5,7,10,10,29,46,66,48,39,56,69,18,"Recent"
-11011,"Chrysocolaptes guttacristatus","Greater Flameback",5,28,12,4,74,37,95,54,75,68,60,77,214,418,555,977,1112,1301,1352,1464,20,"Regular"
-11028,"Chrysocolaptes festivus","White-naped Woodpecker",0,0,0,0,0,0,0,1,0,0,0,0,2,1,1,2,0,6,2,5,8,"Sporadic"
-11058,"Micropternus brachyurus","Rufous Woodpecker",3,7,2,1,22,7,18,19,16,28,21,19,140,188,374,500,833,765,979,1127,20,"Regular"
-11090,"Dinopium javanense","Common Flameback",3,34,3,0,45,24,48,30,24,25,17,14,39,22,22,37,52,69,36,23,19,"Recent"
-11099,"Dinopium benghalense","Black-rumped Flameback",13,29,13,51,128,86,149,87,106,107,68,118,978,2527,4434,5766,6561,7493,10921,8436,20,"Regular"
-11109,"Picus chlorolophus","Lesser Yellownape",2,12,2,1,23,12,35,36,29,48,19,41,88,150,217,427,430,401,545,587,20,"Regular"
-11123,"Picus xanthopygaeus","Streak-throated Woodpecker",3,5,5,0,9,3,16,8,17,7,11,9,81,117,106,152,147,171,174,155,19,"Recent"
-11242,"Dryocopus javensis","White-bellied Woodpecker",3,16,6,2,23,19,19,19,15,19,13,21,35,67,84,145,106,189,126,106,20,"Regular"
-11462,"Falco naumanni","Lesser Kestrel",0,1,1,0,0,0,2,1,0,0,0,0,1,3,1,7,1,3,1,0,11,"Sporadic"
-11463,"Falco tinnunculus","Eurasian Kestrel",4,18,2,1,15,11,20,23,20,24,45,31,44,62,186,187,145,163,120,170,20,"Regular"
-11518,"Falco chicquera","Red-necked Falcon",0,0,0,0,0,0,0,0,2,0,0,0,1,1,8,11,5,0,1,2,8,"Sporadic"
-11524,"Falco amurensis","Amur Falcon",0,0,0,0,0,0,0,1,1,0,0,0,5,12,76,41,18,11,38,12,10,"Recent"
-11539,"Falco subbuteo","Eurasian Hobby",0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,3,0,0,4,4,"Sporadic"
-11544,"Falco severus","Oriental Hobby",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sporadic"
-11575,"Falco peregrinus","Peregrine Falcon",2,3,1,0,8,2,3,6,6,5,12,8,12,21,41,91,67,213,232,149,19,"Recent"
-11800,"Psittacula eupatria","Alexandrine Parakeet",0,0,0,1,0,0,0,0,2,0,0,0,0,1,2,0,2,0,0,2,6,"Sporadic"
-11807,"Psittacula krameri","Rose-ringed Parakeet",4,13,2,50,75,64,85,48,34,42,36,52,1076,2387,3361,4798,5880,6651,8544,6745,20,"Regular"
-11818,"Psittacula cyanocephala","Plum-headed Parakeet",4,34,13,5,82,31,112,76,83,122,58,108,399,734,1162,1944,1897,2254,3317,2911,20,"Regular"
-11823,"Psittacula columboides","Malabar Parakeet",10,72,19,6,115,48,164,90,104,154,121,155,362,619,853,1314,1196,1746,1291,1096,20,"Regular"
-12150,"Loriculus vernalis","Vernal Hanging-Parrot",9,57,13,5,98,70,185,119,160,163,84,130,469,995,1783,2873,3161,3716,4063,3730,20,"Regular"
-12798,"Pitta brachyura","Indian Pitta",2,4,12,0,17,12,21,27,18,35,21,29,132,161,277,445,438,428,736,693,19,"Recent"
-17865,"Pericrocotus cinnamomeus","Small Minivet",7,18,8,2,40,13,59,34,34,46,49,49,163,301,401,597,585,654,742,710,20,"Regular"
-17900,"Pericrocotus flammeus","Orange Minivet",9,61,17,7,114,60,165,115,134,155,138,159,408,821,1370,2066,1538,2067,2186,2138,20,"Regular"
-17926,"Pericrocotus divaricatus","Ashy Minivet",0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,3,"Sporadic"
-18007,"Coracina macei","Large Cuckooshrike",1,7,1,1,22,6,20,34,12,23,18,17,108,160,275,385,494,423,611,612,20,"Regular"
-18132,"Lalage melanoptera","Black-headed Cuckooshrike",3,6,2,0,11,8,12,34,15,20,22,22,112,164,257,360,408,358,591,732,19,"Recent"
-18872,"Oriolus kundoo","Indian Golden Oriole",7,50,18,14,92,61,148,98,127,138,83,100,645,1281,1688,2860,3899,3664,4060,4011,20,"Regular"
-18878,"Oriolus chinensis","Black-naped Oriole",3,5,3,0,19,21,59,42,39,45,25,33,113,128,212,341,367,393,360,341,19,"Recent"
-18926,"Oriolus xanthornus","Black-hooded Oriole",5,18,13,20,63,23,76,77,51,102,67,86,1079,2637,3579,5046,5561,6050,8332,7379,20,"Regular"
-18970,"Artamus fuscus","Ashy Woodswallow",10,16,9,4,27,25,50,34,44,47,61,74,660,1572,1654,2058,2141,2759,2939,3084,20,"Regular"
-19169,"Tephrodornis sylvicola","Malabar Woodshrike",4,25,5,2,55,26,84,64,65,86,30,68,163,237,319,427,420,607,491,426,20,"Regular"
-19181,"Tephrodornis pondicerianus","Common Woodshrike",2,4,4,0,13,6,24,42,4,13,22,18,69,145,246,338,393,421,554,545,19,"Recent"
-19188,"Hemipus picatus","Bar-winged Flycatcher-shrike",5,15,6,0,21,13,55,40,23,32,31,28,37,90,131,203,177,229,215,293,19,"Recent"
-19242,"Aegithina tiphia","Common Iora",7,34,11,4,68,33,117,105,88,114,70,73,389,971,1764,2266,2248,2467,4526,4344,20,"Regular"
-19516,"Rhipidura albogularis","Spot-breasted Fantail",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,3,"Sporadic"
-19523,"Rhipidura aureola","White-browed Fantail",0,0,2,1,1,1,5,4,1,2,17,2,15,46,67,101,78,76,67,79,18,"Recent"
-19657,"Dicrurus macrocercus","Black Drongo",11,22,10,24,58,38,52,65,41,74,105,116,2311,5500,7086,8670,10545,10616,12493,10863,20,"Regular"
-19665,"Dicrurus leucophaeus","Ashy Drongo",7,61,19,0,82,49,139,98,146,137,84,124,327,507,677,1297,1535,1666,1950,1941,19,"Recent"
-19685,"Dicrurus caerulescens","White-bellied Drongo",3,3,0,0,7,3,4,7,10,16,38,14,27,67,106,126,114,150,142,142,18,"Recent"
-19691,"Dicrurus aeneus","Bronzed Drongo",4,34,16,7,111,38,147,101,103,135,63,99,491,1059,1737,2662,2866,3161,4328,4378,20,"Regular"
-19700,"Dicrurus hottentottus","Hair-crested Drongo",1,2,2,0,2,3,6,1,3,8,0,3,8,18,16,23,43,40,13,40,18,"Recent"
-19754,"Dicrurus paradiseus","Greater Racket-tailed Drongo",7,72,25,13,150,83,225,132,210,218,138,196,1242,2850,4282,6641,6944,7999,9935,8712,20,"Regular"
-19899,"Hypothymis azurea","Black-naped Monarch",5,18,11,3,56,22,69,54,80,78,44,36,140,244,449,728,737,722,1203,986,20,"Regular"
-19959,"Terpsiphone paradisi","Indian Paradise-Flycatcher",8,32,15,1,72,52,124,99,105,111,76,83,449,747,1100,1590,2215,2240,2270,2371,20,"Regular"
-20240,"Lanius isabellinus","Isabelline Shrike",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,"Sporadic"
-20246,"Lanius cristatus","Brown Shrike",7,26,11,1,41,26,64,61,54,66,57,85,285,508,847,1199,1337,1579,1893,1914,20,"Regular"
-20258,"Lanius vittatus","Bay-backed Shrike",3,1,2,0,1,0,5,2,0,8,13,8,21,33,91,85,81,67,159,124,17,"Recent"
-20261,"Lanius schach","Long-tailed Shrike",2,11,2,0,12,8,7,21,15,14,31,33,72,184,219,285,309,502,411,537,19,"Recent"
-20640,"Dendrocitta vagabunda","Rufous Treepie",9,20,15,56,115,89,150,113,102,133,116,157,1983,5086,6926,8985,9677,10489,14301,11262,20,"Regular"
-20662,"Dendrocitta leucogastra","White-bellied Treepie",4,42,23,5,104,60,110,70,70,123,58,104,204,386,434,663,699,1146,649,480,20,"Regular"
-20725,"Corvus splendens","House Crow",7,29,12,58,103,91,100,82,89,103,108,164,3430,10376,14736,17302,25325,22709,27126,21293,20,"Regular"
-20792,"Corvus macrorhynchos","Large-billed Crow",12,46,14,55,140,104,185,124,128,128,149,183,1469,4896,7584,9635,12584,13307,17265,13457,20,"Regular"
-20806,"Corvus macrorhynchos","Large-billed Crow",12,46,14,55,140,104,185,124,128,128,149,183,1469,4896,7584,9635,12584,13307,17265,13457,20,"Regular"
-21121,"Culicicapa ceylonensis","Gray-headed Canary-Flycatcher",2,20,7,0,30,20,37,38,38,30,112,39,27,127,101,155,213,378,126,260,19,"Recent"
-21385,"Parus cinereus","Cinereous Tit",6,22,9,1,43,11,46,46,48,42,48,60,192,363,544,638,540,762,730,770,20,"Regular"
-21413,"Machlolophus aplonotus","Indian Yellow Tit",3,25,3,1,28,21,27,31,25,25,40,24,48,102,168,214,178,205,199,304,20,"Regular"
-21557,"Ammomanes phoenicura","Rufous-tailed Lark",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,3,4,"Sporadic"
-21597,"Eremopterix griseus","Ashy-crowned Sparrow-Lark",0,1,0,0,3,0,0,2,0,3,0,1,5,17,26,44,34,30,74,129,13,"Recent"
-21742,"Mirafra affinis","Jerdon's Bushlark",0,1,0,0,2,4,3,7,0,13,9,17,72,223,305,359,339,466,713,759,16,"Recent"
-21829,"Calandrella dukhunensis","Mongolian Short-toed Lark",1,0,0,0,0,1,0,0,1,3,3,0,6,11,36,65,87,72,125,106,13,"Recent"
-21922,"Alauda gulgula","Oriental Skylark",1,0,0,0,3,1,2,6,0,12,13,12,48,106,166,170,163,247,385,360,16,"Recent"
-21997,"Galerida malabarica","Malabar Lark",0,1,0,0,3,4,2,2,0,4,9,8,17,62,96,197,167,201,382,364,16,"Recent"
-22317,"Orthotomus sutorius","Common Tailorbird",8,17,6,54,98,87,131,97,81,67,80,81,1112,3191,5492,7670,8705,10211,15689,12314,20,"Regular"
-22399,"Prinia hodgsonii","Gray-breasted Prinia",3,12,4,2,18,12,26,24,22,31,23,21,101,238,635,1140,999,1290,2238,1700,20,"Regular"
-22422,"Prinia sylvatica","Jungle Prinia",0,0,0,0,3,1,0,2,0,4,16,0,10,20,17,21,31,28,25,32,13,"Recent"
-22437,"Prinia socialis","Ashy Prinia",6,7,3,7,13,10,18,18,7,26,32,68,435,1020,1542,1851,2067,2707,2866,2811,20,"Regular"
-22454,"Prinia inornata","Plain Prinia",13,6,4,5,15,8,14,27,5,25,46,72,587,1251,1592,1866,2024,2406,2360,2720,20,"Regular"
-22690,"Cisticola juncidis","Zitting Cisticola",4,7,1,1,1,2,4,13,3,14,11,9,232,514,634,748,701,872,1189,1190,20,"Regular"
-22759,"Cisticola exilis","Golden-headed Cisticola",0,0,0,0,0,0,0,0,4,1,1,0,0,0,3,21,7,3,7,38,9,"Recent"
-22786,"Arundinax aedon","Thick-billed Warbler",4,2,4,0,5,7,16,10,10,8,5,5,13,9,30,29,19,40,20,61,19,"Recent"
-22789,"Iduna caligata","Booted Warbler",0,3,1,0,0,0,1,0,0,5,1,4,5,14,44,56,71,86,67,58,14,"Recent"
-22790,"Iduna rama","Sykes's Warbler",0,0,1,0,0,0,1,1,2,1,1,0,1,5,11,11,17,27,12,7,14,"Recent"
-22820,"Acrocephalus agricola","Paddyfield Warbler",0,0,0,0,1,0,0,4,2,2,1,2,2,5,14,8,31,33,82,93,14,"Recent"
-22828,"Acrocephalus dumetorum","Blyth's Reed Warbler",7,43,11,5,72,52,170,152,111,113,99,107,386,822,1276,3395,3653,4119,2656,3470,20,"Regular"
-22872,"Acrocephalus stentoreus","Clamorous Reed Warbler",0,5,1,2,1,3,8,10,3,12,8,21,104,283,449,654,851,746,781,886,19,"Recent"
-22941,"Helopsaltes certhiola","Pallas's Grasshopper Warbler",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,41,35,6,19,21,6,"Recent"
-22962,"Locustella naevia","Common Grasshopper-Warbler",0,0,1,0,2,1,3,4,3,2,0,1,1,1,3,1,5,2,7,0,15,"Sporadic"
-23058,"Schoenicola platyurus","Broad-tailed Grassbird",1,2,0,0,14,3,5,10,5,8,7,5,3,12,7,23,12,12,3,8,18,"Recent"
-23059,"Schoenicola striatus","Bristled Grassbird",0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,7,15,1,14,0,8,"Sporadic"
-23242,"Riparia riparia","Bank Swallow",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,3,9,1,5,6,"Recent"
-23287,"Ptyonoprogne concolor","Dusky Crag-Martin",1,7,5,2,21,13,10,18,17,26,18,23,35,82,137,188,223,304,385,450,20,"Regular"
-23291,"Hirundo rustica","Barn Swallow",13,16,18,7,16,39,57,40,58,44,58,86,656,2010,2377,3638,3810,3431,3193,3108,20,"Regular"
-23312,"Hirundo smithii","Wire-tailed Swallow",1,0,4,2,2,5,2,3,1,9,15,10,23,149,210,234,311,818,937,993,19,"Recent"
-23318,"Hirundo domicola","Hill Swallow",1,5,3,0,22,19,12,22,14,21,59,27,55,88,98,110,120,246,123,248,19,"Recent"
-23338,"Cecropis daurica","Red-rumped Swallow",12,15,6,5,27,21,51,42,23,35,43,71,200,461,728,1302,1103,1685,2001,2027,20,"Regular"
-23376,"Petrochelidon fluvicola","Streak-throated Swallow",0,0,0,0,1,0,0,0,0,1,3,2,6,11,34,72,71,111,82,150,12,"Recent"
-23408,"Delichon urbicum","Common House-Martin",0,2,0,0,2,0,1,2,0,0,2,0,0,1,0,2,0,5,1,1,10,"Sporadic"
-23414,"Delichon dasypus","Asian House-Martin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,"Sporadic"
-23603,"Brachypodius priocephalus","Gray-headed Bulbul",3,7,5,0,21,21,42,25,32,42,34,28,42,67,119,200,167,199,231,152,19,"Recent"
-23629,"Rubigula gularis","Flame-throated Bulbul",6,35,14,2,65,23,139,76,99,126,63,100,182,397,520,754,721,753,1088,780,20,"Regular"
-23648,"Pycnonotus cafer","Red-vented Bulbul",10,36,15,16,56,32,61,83,52,72,104,115,1471,2838,4076,5981,6912,7148,9866,8367,20,"Regular"
-23658,"Pycnonotus jocosus","Red-whiskered Bulbul",12,78,22,49,167,135,261,176,170,211,224,213,1767,3613,6011,8738,10273,11541,15356,13568,20,"Regular"
-23727,"Pycnonotus xantholaemus","Yellow-throated Bulbul",0,0,0,0,0,1,1,0,0,2,1,2,2,7,8,7,3,7,8,3,13,"Recent"
-23735,"Pycnonotus luteolus","White-browed Bulbul",3,4,2,0,6,4,7,19,3,17,26,25,144,356,755,1058,1167,1441,2694,2298,19,"Recent"
-23840,"Iole indica","Yellow-browed Bulbul",7,78,23,5,119,101,231,126,197,188,129,146,327,730,1228,2108,1740,2725,2520,2280,20,"Regular"
-23868,"Hypsipetes ganeesa","Square-tailed Bulbul",5,39,4,2,44,42,59,67,71,53,95,54,63,131,143,228,340,704,329,656,20,"Regular"
-23943,"Phylloscopus inornatus","Yellow-browed Warbler",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,"Sporadic"
-23944,"Phylloscopus humei","Hume's Warbler",0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,2,"Sporadic"
-23957,"Phylloscopus tytleri","Tytler's Leaf Warbler",0,0,2,0,7,6,3,8,0,4,4,8,4,8,13,8,10,16,13,11,16,"Recent"
-23963,"Phylloscopus affinis","Tickell's Leaf Warbler",2,11,2,0,19,9,13,23,9,12,44,14,16,26,42,35,56,62,40,69,19,"Recent"
-23969,"Phylloscopus fuscatus","Dusky Warbler",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"Sporadic"
-23981,"Phylloscopus trochilus","Willow Warbler",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,"Sporadic"
-23991,"Phylloscopus collybita","Common Chiffchaff",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,"Sporadic"
-24060,"Phylloscopus nitidus","Green Warbler",4,1,1,0,2,1,0,1,5,7,12,10,49,72,212,719,1690,1489,1923,1774,18,"Recent"
-24061,"Phylloscopus trochiloides","Greenish Warbler",5,63,16,25,127,99,224,165,161,104,92,94,291,529,652,1249,1209,1824,1240,1223,20,"Regular"
-24071,"Phylloscopus magnirostris","Large-billed Leaf Warbler",2,32,13,2,69,55,121,89,122,95,95,49,91,113,129,133,205,402,359,453,20,"Regular"
-24108,"Phylloscopus occipitalis","Western Crowned Warbler",3,8,5,0,23,18,31,15,15,12,16,8,20,17,32,30,51,63,65,95,19,"Recent"
-24386,"Sylvia atricapilla","Eurasian Blackcap",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,"Sporadic"
-24423,"Curruca curruca","Lesser Whitethroat",0,0,0,0,1,0,0,1,0,2,0,2,0,0,12,14,7,15,16,25,10,"Recent"
-24452,"Curruca crassirostris","Eastern Orphean Warbler",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,7,0,4,"Sporadic"
-24506,"Chrysomma sinense","Yellow-eyed Babbler",1,0,1,0,1,0,1,1,0,4,3,3,14,15,13,12,11,18,18,19,16,"Recent"
-24763,"Zosterops palpebrosus","Indian White-eye",5,36,7,3,45,43,56,58,59,50,120,66,121,259,325,473,582,946,656,1006,20,"Regular"
-25002,"Dumetia hyperythra","Tawny-bellied Babbler",1,4,1,0,4,1,4,6,2,12,27,12,37,34,71,79,108,108,159,238,19,"Recent"
-25006,"Dumetia atriceps","Dark-fronted Babbler",2,22,5,1,47,39,97,52,78,92,38,35,69,165,183,301,253,376,402,373,20,"Regular"
-25159,"Pomatorhinus horsfieldii","Indian Scimitar-Babbler",5,44,7,3,59,60,114,88,79,95,80,41,95,217,279,463,626,1072,518,733,20,"Regular"
-25305,"Pellorneum ruficeps","Puff-throated Babbler",5,17,3,1,55,36,53,55,78,68,32,28,66,163,303,626,446,721,1226,928,20,"Regular"
-25483,"Alcippe poioicephala","Brown-cheeked Fulvetta",3,39,11,2,59,54,125,72,93,79,45,45,84,142,201,341,306,629,394,387,20,"Regular"
-25590,"Montecincla jerdoni","Banasura Laughingthrush",0,0,0,0,1,3,1,0,1,2,8,0,0,0,1,0,5,3,0,7,10,"Sporadic"
-25591,"Montecincla cachinnans","Nilgiri Laughingthrush",0,0,0,0,3,2,1,0,0,4,0,1,1,0,0,1,0,1,5,10,10,"Sporadic"
-25592,"Montecincla fairbanki","Palani Laughingthrush",3,9,4,1,14,8,25,38,16,15,101,41,50,136,126,153,263,438,165,283,20,"Regular"
-25593,"Montecincla meridionalis","Ashambu Laughingthrush",0,0,0,0,0,1,0,0,8,3,3,1,3,7,2,0,0,14,2,4,11,"Sporadic"
-25702,"Argya malcolmi","Large Gray Babbler",0,0,0,0,0,0,0,0,0,2,1,1,2,7,10,15,12,3,3,15,11,"Recent"
-25705,"Argya subrufa","Rufous Babbler",3,15,13,1,38,26,48,53,45,72,32,42,124,234,314,620,466,478,650,607,20,"Regular"
-25709,"Argya striata","Jungle Babbler",5,25,12,8,80,23,85,68,79,91,87,101,1076,2716,3214,4697,5041,5855,6755,6055,20,"Regular"
-25716,"Argya affinis","Yellow-billed Babbler",3,9,8,16,40,28,24,44,28,30,47,45,771,1694,2896,4086,4070,4000,6498,5454,20,"Regular"
-25872,"Pterorhinus delesserti","Wayanad Laughingthrush",3,15,4,1,24,18,14,4,10,15,16,15,17,19,21,40,34,65,38,24,20,"Regular"
-25980,"Sitta castanea","Indian Nuthatch",1,0,0,1,0,0,0,0,0,0,0,0,3,3,8,12,2,3,3,4,10,"Recent"
-26066,"Sitta frontalis","Velvet-fronted Nuthatch",3,42,14,2,77,44,86,60,66,57,76,79,178,306,328,546,491,667,451,561,20,"Regular"
-26887,"Gracula indica","Southern Hill Myna",9,67,22,5,124,74,197,123,140,187,106,151,409,859,957,1684,1892,2680,1877,1717,20,"Regular"
-26906,"Pastor roseus","Rosy Starling",1,0,0,2,3,3,3,11,5,14,6,12,145,352,413,926,989,908,811,623,18,"Recent"
-26907,"Agropsar sturninus","Daurian Starling",0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,3,6,1,6,"Recent"
-26923,"Sturnia pagodarum","Brahminy Starling",1,2,2,1,1,1,3,4,0,8,6,6,38,94,173,210,177,209,365,295,19,"Recent"
-26924,"Sturnia malabarica","Chestnut-tailed Starling",2,21,10,0,46,14,50,22,28,59,26,48,212,241,357,537,987,947,1170,1220,19,"Recent"
-26927,"Sturnia blythii","Malabar Starling",2,20,1,2,16,14,30,42,49,40,28,86,232,429,583,874,951,1274,1348,1099,20,"Regular"
-26935,"Acridotheres tristis","Common Myna",9,33,13,65,123,87,126,101,79,119,101,138,2611,6855,10660,12540,16060,15253,19679,16403,20,"Regular"
-26946,"Acridotheres fuscus","Jungle Myna",15,30,10,38,71,45,56,48,53,43,56,65,539,894,1178,1751,1875,2422,1870,2269,20,"Regular"
-27280,"Zoothera neilgherriensis","Nilgiri Thrush",0,0,0,1,2,0,2,2,1,1,3,7,1,2,13,8,14,14,7,4,16,"Recent"
-27415,"Geokichla wardii","Pied Thrush",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,0,5,"Sporadic"
-27462,"Geokichla citrina","Orange-headed Thrush",3,16,14,3,58,28,46,60,61,74,53,76,272,403,736,1236,1389,1343,1400,1381,20,"Regular"
-27712,"Turdus simillimus","Indian Blackbird",0,14,5,1,22,19,29,42,23,38,42,39,83,132,130,232,390,459,358,370,19,"Recent"
-27723,"Turdus obscurus","Eyebrowed Thrush",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,"Sporadic"
-27816,"Muscicapa dauurica","Asian Brown Flycatcher",3,26,7,4,46,29,86,46,69,77,54,53,173,253,409,628,727,933,986,896,20,"Regular"
-27821,"Muscicapa muttui","Brown-breasted Flycatcher",6,13,9,1,39,29,78,50,64,76,41,52,112,143,267,343,446,514,502,451,20,"Regular"
-27840,"Muscicapa striata","Spotted Flycatcher",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,"Sporadic"
-28008,"Copsychus fulicatus","Indian Robin",2,4,2,0,5,2,7,15,4,15,22,18,131,306,428,664,774,1004,1376,1454,19,"Recent"
-28014,"Copsychus saularis","Oriental Magpie-Robin",9,35,13,48,110,87,122,94,78,89,95,113,1755,4147,6436,7840,11225,11641,14989,11849,20,"Regular"
-28031,"Copsychus malabaricus","White-rumped Shama",1,5,1,1,3,4,6,4,18,9,10,8,17,21,31,55,26,53,40,58,20,"Regular"
-28065,"Sholicola major","Nilgiri Sholakili",0,0,0,0,5,7,2,0,2,5,2,0,2,0,0,0,4,1,0,4,10,"Sporadic"
-28066,"Sholicola albiventris","White-bellied Sholakili",1,3,1,0,7,1,6,19,4,10,38,24,18,55,57,78,124,121,55,68,19,"Recent"
-28085,"Cyornis pallidipes","White-bellied Blue Flycatcher",4,11,11,1,36,28,55,29,44,48,30,41,86,109,143,191,196,221,163,165,20,"Regular"
-28095,"Cyornis rubeculoides","Blue-throated Flycatcher",3,2,4,0,13,12,19,27,23,31,18,30,62,59,116,140,150,214,218,207,19,"Recent"
-28121,"Cyornis tickelliae","Tickell's Blue Flycatcher",6,7,3,1,33,9,22,37,27,31,29,27,90,129,280,515,518,559,749,945,20,"Regular"
-28188,"Cyanoptila cyanomelana","Blue-and-white Flycatcher",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,13,4,0,4,"Sporadic"
-28194,"Eumyias albicaudatus","Nilgiri Flycatcher",2,11,5,2,26,13,24,33,19,20,41,38,55,110,129,166,217,337,130,305,20,"Regular"
-28200,"Eumyias thalassinus","Verditer Flycatcher",3,14,1,1,12,15,29,13,14,12,19,35,56,55,124,162,232,284,246,234,20,"Regular"
-28402,"Larvivora brunnea","Indian Blue Robin",0,3,4,0,15,12,19,15,36,24,17,26,40,41,88,103,146,180,116,172,18,"Recent"
-28419,"Luscinia svecica","Bluethroat",0,0,0,0,0,1,0,0,0,0,1,1,0,4,15,20,8,14,15,10,10,"Recent"
-28440,"Myophonus horsfieldii","Malabar Whistling-Thrush",8,57,13,4,104,68,169,115,157,138,104,89,280,526,609,1157,1312,1955,1159,1240,20,"Regular"
-28508,"Ficedula zanthopygia","Yellow-rumped Flycatcher",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,4,"Sporadic"
-28516,"Ficedula nigrorufa","Black-and-orange Flycatcher",2,2,2,0,8,11,8,20,10,14,61,30,26,59,73,76,124,160,63,173,19,"Recent"
-28556,"Ficedula superciliaris","Ultramarine Flycatcher",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Sporadic"
-28559,"Ficedula ruficauda","Rusty-tailed Flycatcher",4,8,7,1,41,35,50,28,34,36,31,42,53,77,126,164,177,217,206,207,20,"Regular"
-28560,"Ficedula albicilla","Taiga Flycatcher",1,0,0,0,0,0,0,0,0,1,1,1,1,0,2,2,4,2,29,22,11,"Recent"
-28561,"Ficedula subrubra","Kashmir Flycatcher",2,0,0,0,0,0,0,1,0,0,1,0,1,0,1,2,0,1,0,1,8,"Sporadic"
-28562,"Ficedula parva","Red-breasted Flycatcher",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,"Sporadic"
-28644,"Monticola cinclorhyncha","Blue-capped Rock-Thrush",2,8,1,1,17,16,28,15,25,30,22,23,37,64,102,191,197,194,213,196,20,"Regular"
-28656,"Monticola saxatilis","Rufous-tailed Rock-Thrush",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Sporadic"
-28657,"Monticola solitarius","Blue Rock-Thrush",1,1,3,0,4,6,6,2,3,2,10,15,13,21,31,31,41,43,45,80,19,"Recent"
-28680,"Saxicola maurus","Siberian Stonechat",1,2,0,0,1,0,4,2,1,4,5,5,22,70,159,172,250,341,443,436,17,"Recent"
-28712,"Saxicola caprata","Pied Bushchat",3,14,4,1,14,9,18,32,15,35,86,52,136,327,476,565,564,805,715,908,20,"Regular"
-28785,"Oenanthe oenanthe","Northern Wheatear",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0,3,"Sporadic"
-28798,"Oenanthe isabellina","Isabelline Wheatear",0,0,0,0,0,0,0,2,0,0,0,1,5,2,1,1,0,9,6,4,9,"Sporadic"
-28801,"Oenanthe deserti","Desert Wheatear",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,17,0,0,2,"Sporadic"
-28811,"Oenanthe pleschanka","Pied Wheatear",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,"Sporadic"
-28852,"Oenanthe picata","Variable Wheatear",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,1,"Sporadic"
-28951,"Dicaeum agile","Thick-billed Flowerpecker",1,18,1,0,10,11,26,11,17,27,19,7,23,73,83,139,101,111,73,129,19,"Recent"
-29021,"Dicaeum erythrorhynchos","Pale-billed Flowerpecker",7,11,7,47,74,83,99,64,32,32,44,46,587,2097,4148,5603,6682,6347,9004,6233,20,"Regular"
-29025,"Dicaeum concolor","Nilgiri Flowerpecker",7,32,12,4,81,46,123,110,128,109,95,72,219,425,794,1387,1371,1909,1528,1316,20,"Regular"
-29263,"Leptocoma zeylonica","Purple-rumped Sunbird",6,25,9,56,106,84,97,80,92,105,113,114,1467,3591,6768,8281,9720,9919,13772,11336,20,"Regular"
-29266,"Leptocoma minima","Crimson-backed Sunbird",8,50,17,1,95,74,206,107,157,163,92,89,229,418,642,1092,859,1332,1335,1146,20,"Regular"
-29429,"Cinnyris asiaticus","Purple Sunbird",5,17,14,53,98,76,135,94,48,99,68,78,557,1220,2050,2662,2323,2599,3173,2553,20,"Regular"
-29479,"Cinnyris lotenius","Loten's Sunbird",3,18,5,3,19,13,39,37,48,50,49,57,510,1142,1812,2987,3308,3786,5003,4292,20,"Regular"
-29586,"Arachnothera longirostra","Little Spiderhunter",4,28,11,2,50,34,74,53,93,76,30,44,90,215,421,622,454,494,704,571,20,"Regular"
-29620,"Irena puella","Asian Fairy-bluebird",4,56,18,2,80,51,159,84,127,141,80,109,180,359,509,796,831,1207,956,779,20,"Regular"
-29654,"Chloropsis jerdoni","Jerdon's Leafbird",2,9,2,3,27,12,24,17,22,28,17,16,163,322,601,599,744,796,1008,688,20,"Regular"
-29655,"Chloropsis aurifrons","Golden-fronted Leafbird",3,31,11,2,49,36,85,69,83,91,57,85,305,556,934,1549,1587,1534,2144,1687,20,"Regular"
-29872,"Ploceus manyar","Streaked Weaver",2,0,0,1,1,0,1,5,0,2,5,1,79,94,80,93,139,134,117,88,16,"Recent"
-29877,"Ploceus philippinus","Baya Weaver",2,2,4,7,2,4,2,6,1,10,18,22,286,469,558,629,544,817,870,933,20,"Regular"
-30034,"Euodice malabarica","Indian Silverbill",0,0,0,0,0,0,0,0,0,1,1,1,4,2,11,5,5,8,6,27,11,"Recent"
-30045,"Lonchura punctulata","Scaly-breasted Munia",1,4,2,1,5,6,4,3,5,13,15,24,253,632,860,1119,1333,1477,2129,1801,20,"Regular"
-30059,"Lonchura kelaarti","Black-throated Munia",5,8,3,0,6,7,22,19,16,24,23,27,27,97,151,197,161,169,295,345,19,"Recent"
-30063,"Lonchura striata","White-rumped Munia",3,10,5,9,22,18,21,21,12,23,27,30,374,699,1164,1551,1469,1659,2844,2797,20,"Regular"
-30080,"Lonchura malacca","Tricolored Munia",3,5,0,0,3,7,27,7,3,5,11,22,139,255,397,525,472,654,620,673,18,"Recent"
-30318,"Amandava amandava","Red Avadavat",1,2,0,1,0,0,1,4,0,2,4,7,11,44,38,46,67,141,105,113,16,"Recent"
-30494,"Passer domesticus","House Sparrow",2,13,7,5,20,9,3,12,15,21,14,22,274,390,783,1131,1755,1464,1405,1100,20,"Regular"
-30510,"Passer hispaniolensis","Spanish Sparrow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,"Sporadic"
-30580,"Gymnoris xanthocollis","Yellow-throated Sparrow",2,2,2,0,3,4,6,12,1,12,12,5,52,88,109,153,158,206,251,257,19,"Recent"
-30597,"Carpospiza brachydactyla","Pale Rockfinch",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,1,"Sporadic"
-30622,"Dendronanthus indicus","Forest Wagtail",4,18,6,8,45,28,60,31,27,24,18,37,65,99,158,161,170,205,129,132,20,"Regular"
-30633,"Motacilla cinerea","Gray Wagtail",8,60,13,8,58,52,118,86,93,87,125,93,353,581,773,1153,985,1318,986,1106,20,"Regular"
-30637,"Motacilla flava","Western Yellow Wagtail",1,11,5,4,1,6,12,10,10,17,17,47,236,491,626,1000,976,973,850,880,20,"Regular"
-30643,"Motacilla flava","Western Yellow Wagtail",1,11,5,4,1,6,12,10,10,17,17,47,236,491,626,1000,976,973,850,880,20,"Regular"
-30649,"Motacilla flava","Western Yellow Wagtail",1,11,5,4,1,6,12,10,10,17,17,47,236,491,626,1000,976,973,850,880,20,"Regular"
-30655,"Motacilla tschutschensis","Eastern Yellow Wagtail",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,"Sporadic"
-30662,"Motacilla citreola","Citrine Wagtail",0,0,0,0,0,0,0,3,1,1,1,0,2,6,0,2,8,10,6,20,11,"Recent"
-30669,"Motacilla maderaspatensis","White-browed Wagtail",6,30,18,10,42,36,55,45,50,70,62,90,375,705,1054,1447,1598,1912,2292,2426,20,"Regular"
-30675,"Motacilla alba","White Wagtail",0,1,0,1,1,3,6,2,4,3,2,4,30,86,93,88,121,84,52,59,18,"Recent"
-30704,"Anthus richardi","Richard's Pipit",0,0,0,0,0,1,2,2,0,4,7,3,11,16,15,11,18,13,16,14,14,"Recent"
-30710,"Anthus rufulus","Paddyfield Pipit",3,6,4,0,18,12,15,27,7,21,25,30,142,343,688,770,767,1031,1393,1461,19,"Recent"
-30740,"Anthus similis","Long-billed Pipit",0,1,0,0,0,0,0,2,4,4,2,1,1,5,5,2,1,5,11,8,14,"Recent"
-30765,"Anthus godlewskii","Blyth's Pipit",0,0,0,0,1,0,0,0,0,1,2,2,5,3,12,17,55,42,98,69,12,"Recent"
-30767,"Anthus campestris","Tawny Pipit",0,0,0,0,0,0,0,0,0,4,1,1,4,3,13,11,12,17,59,18,11,"Recent"
-30791,"Anthus nilghiriensis","Nilgiri Pipit",2,3,3,2,17,3,5,13,7,12,42,23,35,54,42,54,55,103,31,48,20,"Regular"
-30811,"Anthus trivialis","Tree Pipit",0,0,0,0,0,0,0,0,0,0,0,1,2,2,11,13,9,17,68,15,9,"Recent"
-30815,"Anthus hodgsoni","Olive-backed Pipit",0,2,0,0,0,0,1,0,1,0,3,0,0,1,3,7,3,7,3,3,11,"Recent"
-30824,"Anthus cervinus","Red-throated Pipit",0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,0,1,1,5,6,"Sporadic"
-31096,"Carpodacus erythrinus","Common Rosefinch",0,13,1,0,13,13,15,26,9,11,22,7,13,48,67,94,164,209,151,109,18,"Recent"
-31620,"Emberiza lathami","Crested Bunting",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,2,"Sporadic"
-31621,"Emberiza melanocephala","Black-headed Bunting",0,0,0,0,0,0,0,1,2,1,0,0,0,0,5,2,27,10,15,9,9,"Recent"
-31622,"Emberiza bruniceps","Red-headed Bunting",0,0,0,0,0,0,0,2,1,0,1,0,0,2,4,1,13,2,57,22,10,"Recent"
-31626,"Emberiza fucata","Chestnut-eared Bunting",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,"Sporadic"
-31663,"Emberiza buchanani","Gray-necked Bunting",0,0,0,0,0,0,1,1,2,2,2,0,4,9,25,12,36,19,99,89,13,"Recent"
-31670,"Emberiza hortulana","Ortolan Bunting",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,"Sporadic"
-31745,"Emberiza pusilla","Little Bunting",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,"Sporadic"
+"TAXONOMIC.ORDER","SCIENTIFIC.NAME","COMMON.NAME","STATUS","COUNT","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"
+226,"Dendrocygna bicolor","Fulvous Whistling-Duck","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+233,"Dendrocygna javanica","Lesser Whistling-Duck","Regular",20,19,21,24,17,48,44,25,34,38,29,67,118,854,2086,2496,3032,3306,3791,4428,4253
+240,"Anser indicus","Bar-headed Goose","Sporadic",12,2,0,0,2,0,0,0,0,0,2,3,0,1,8,2,29,6,15,19,1
+354,"Sarkidiornis melanotos","Knob-billed Duck","Sporadic",11,0,1,1,0,0,0,0,0,0,0,1,5,0,8,11,44,11,4,12,17
+376,"Tadorna ferruginea","Ruddy Shelduck","Sporadic",7,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,58,2,4,0
+401,"Nettapus coromandelianus","Cotton Pygmy-Goose","Regular",20,11,13,16,10,21,19,13,12,22,15,41,46,321,654,508,891,721,817,702,765
+425,"Spatula querquedula","Garganey","Regular",20,12,16,15,10,18,19,5,16,17,6,25,44,107,296,433,805,713,645,566,517
+443,"Spatula clypeata","Northern Shoveler","Sporadic",16,0,0,2,0,1,3,0,1,1,1,5,3,12,44,107,256,103,131,95,100
+447,"Mareca strepera","Gadwall","Sporadic",9,0,0,0,0,0,0,0,1,1,0,0,0,1,2,4,3,1,1,0,1
+454,"Mareca penelope","Eurasian Wigeon","Sporadic",13,0,0,1,0,0,0,1,0,2,1,0,1,2,6,12,47,8,5,5,3
+478,"Anas poecilorhyncha","Indian Spot-billed Duck","Regular",20,7,8,8,6,7,6,1,10,13,6,16,54,245,359,701,1221,816,808,852,674
+526,"Anas acuta","Northern Pintail","Regular",20,11,14,15,12,14,13,5,11,16,6,29,33,66,117,243,421,356,281,303,234
+541,"Anas crecca","Green-winged Teal","Regular",20,3,4,5,2,4,2,1,3,3,1,3,4,3,26,50,116,106,83,39,29
+595,"Aythya ferina","Common Pochard","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+600,"Aythya nyroca","Ferruginous Duck","Sporadic",6,1,0,0,0,0,0,2,0,0,0,0,1,0,1,1,2,0,0,0,0
+609,"Aythya fuligula","Tufted Duck","Sporadic",2,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+1471,"Pavo cristatus","Indian Peafowl","Regular",20,3,4,2,1,6,4,13,38,14,23,19,30,274,725,1425,2175,1836,2248,4024,3748
+1494,"Galloperdix spadicea","Red Spurfowl","Sporadic",19,0,12,8,1,35,20,47,24,17,36,37,35,149,263,345,577,721,857,973,735
+1498,"Galloperdix lunulata","Painted Spurfowl","Sporadic",9,0,0,0,0,0,0,0,0,0,1,0,2,0,1,4,1,2,6,1,4
+1529,"Gallus sonneratii","Gray Junglefowl","Regular",20,8,37,21,5,101,61,165,118,106,144,117,117,301,551,714,1015,1190,1764,1256,1214
+1541,"Ortygornis pondicerianus","Gray Francolin","Sporadic",16,0,2,0,0,1,0,1,11,1,5,2,3,18,94,223,205,141,166,518,332
+1627,"Synoicus chinensis","Blue-breasted Quail","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1644,"Coturnix coromandelica","Rain Quail","Sporadic",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,16,0,9,13,1
+1685,"Perdicula asiatica","Jungle Bush-Quail","Sporadic",16,1,0,0,0,1,1,2,2,0,2,1,1,26,30,17,16,7,8,41,30
+1695,"Perdicula erythrorhyncha","Painted Bush-Quail","Sporadic",19,1,1,4,0,6,1,7,6,5,2,11,9,11,21,26,37,43,38,28,41
+1745,"Phoenicopterus roseus","Greater Flamingo","Sporadic",9,0,0,2,0,0,0,0,0,0,0,0,0,4,54,23,56,73,83,32,1
+1747,"Phoeniconaias minor","Lesser Flamingo","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8
+1758,"Tachybaptus ruficollis","Little Grebe","Regular",20,9,21,19,7,29,25,9,11,15,8,47,73,377,603,851,1052,681,841,709,812
+1827,"Columba livia","Rock Pigeon","Regular",20,3,19,9,12,30,21,38,30,39,50,56,84,1574,4476,6605,8068,13960,12433,15617,13332
+1891,"Columba elphinstonii","Nilgiri Wood-Pigeon","Sporadic",19,1,8,2,0,16,15,22,24,20,17,32,29,41,52,69,87,123,156,63,134
+1988,"Streptopelia orientalis","Oriental Turtle-Dove","Sporadic",11,0,0,0,0,1,0,0,0,0,1,0,2,1,7,13,18,15,16,69,87
+1997,"Streptopelia decaocto","Eurasian Collared-Dove","Sporadic",12,0,0,0,0,1,1,1,0,0,0,2,1,1,3,0,2,3,4,2,2
+2024,"Streptopelia tranquebarica","Red Collared-Dove","Sporadic",8,0,0,0,0,0,0,0,0,0,0,0,0,4,11,9,9,11,7,3,4
+2034,"Streptopelia chinensis","Spotted Dove","Regular",20,10,40,11,13,80,39,97,107,61,97,119,116,1105,2217,3349,5128,5293,6240,8183,7932
+2039,"Streptopelia senegalensis","Laughing Dove","Sporadic",16,1,1,0,0,2,0,1,1,0,7,4,4,28,27,31,22,29,30,19,27
+2127,"Chalcophaps indica","Asian Emerald Dove","Regular",20,4,33,7,5,53,47,95,74,72,86,52,60,204,360,495,632,608,786,737,805
+2444,"Treron bicinctus","Orange-breasted Green-Pigeon","Sporadic",10,0,0,0,0,0,1,0,0,0,0,7,1,10,0,9,46,34,35,37,46
+2450,"Treron affinis","Gray-fronted Green-Pigeon","Regular",20,2,32,7,3,54,42,88,62,50,93,52,75,160,253,282,486,512,692,794,611
+2471,"Treron phoenicopterus","Yellow-footed Green-Pigeon","Sporadic",19,0,4,1,1,7,3,5,7,6,6,8,8,34,75,153,223,159,185,374,412
+2695,"Ducula aenea","Green Imperial-Pigeon","Regular",20,2,4,5,1,16,9,47,22,19,31,41,43,110,193,278,363,329,478,864,800
+2767,"Ducula badia","Mountain Imperial-Pigeon","Regular",20,1,43,12,1,54,52,135,63,69,86,50,43,73,128,156,285,426,552,300,305
+2809,"Pterocles exustus","Chestnut-bellied Sandgrouse","Sporadic",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2866,"Chlamydotis macqueenii","Macqueen's Bustard","Sporadic",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3055,"Centropus sinensis","Greater Coucal","Regular",20,11,34,16,48,121,101,182,136,115,148,113,136,1417,3929,6383,8843,9974,11595,17794,15298
+3074,"Centropus bengalensis","Lesser Coucal","Sporadic",17,0,1,0,0,2,1,4,1,4,1,1,1,36,33,69,71,126,156,169,210
+3100,"Taccocua leschenaultii","Sirkeer Malkoha","Sporadic",12,0,0,0,0,0,0,0,1,1,0,3,1,5,6,10,2,1,6,6,14
+3115,"Phaenicophaeus viridirostris","Blue-faced Malkoha","Regular",20,2,2,2,1,12,6,13,16,2,15,22,11,78,115,141,217,193,197,341,278
+3135,"Clamator coromandus","Chestnut-winged Cuckoo","Sporadic",17,0,2,4,1,3,0,4,4,0,1,2,2,6,3,3,11,7,8,13,14
+3138,"Clamator jacobinus","Pied Cuckoo","Sporadic",18,3,0,1,2,0,2,1,3,5,14,6,7,59,111,233,145,190,222,277,232
+3200,"Eudynamys scolopaceus","Asian Koel","Regular",20,6,12,13,49,78,69,91,74,41,63,53,92,1382,4295,5779,8078,13035,12082,16251,13693
+3282,"Cacomantis sonneratii","Banded Bay Cuckoo","Sporadic",17,2,0,0,0,2,5,6,20,15,25,12,15,33,59,107,154,221,361,666,472
+3293,"Cacomantis passerinus","Gray-bellied Cuckoo","Sporadic",18,0,2,2,0,4,1,6,7,5,11,10,7,37,53,97,191,139,304,228,342
+3319,"Surniculus dicruroides","Fork-tailed Drongo-Cuckoo","Sporadic",19,2,2,2,0,6,3,6,13,14,9,17,17,47,59,75,107,145,152,179,185
+3333,"Hierococcyx sparverioides","Large Hawk-Cuckoo","Sporadic",16,0,0,0,0,4,2,3,3,1,2,2,1,6,4,14,6,4,3,8,3
+3336,"Hierococcyx varius","Common Hawk-Cuckoo","Regular",20,6,10,6,5,29,10,65,61,21,56,39,63,370,807,1395,1699,1849,2372,2543,3091
+3349,"Cuculus poliocephalus","Lesser Cuckoo","Sporadic",9,1,1,1,0,0,0,0,0,0,0,0,1,0,0,7,1,1,0,5,4
+3351,"Cuculus micropterus","Indian Cuckoo","Regular",20,1,3,1,1,5,2,16,11,2,10,8,3,58,122,122,166,127,235,161,166
+3359,"Cuculus canorus","Common Cuckoo","Sporadic",10,0,0,0,0,0,0,1,0,1,0,0,0,2,5,53,55,78,40,200,49
+3391,"Batrachostomus moniliger","Sri Lanka Frogmouth","Regular",20,3,3,6,2,11,11,18,17,22,27,36,40,90,130,139,170,192,297,187,177
+3413,"Lyncornis macrotis","Great Eared-Nightjar","Sporadic",19,1,1,3,0,5,3,13,14,11,10,6,16,26,31,23,51,74,181,74,73
+3581,"Caprimulgus indicus","Jungle Nightjar","Sporadic",18,1,4,2,0,3,5,6,5,0,4,6,3,17,18,60,87,78,135,98,115
+3624,"Caprimulgus atripennis","Jerdon's Nightjar","Sporadic",19,2,2,4,0,9,6,6,17,6,10,9,17,33,45,90,180,223,338,464,379
+3643,"Caprimulgus asiaticus","Indian Nightjar","Sporadic",17,1,1,1,0,1,1,0,0,1,1,2,1,11,8,28,46,40,75,75,59
+3656,"Caprimulgus affinis","Savanna Nightjar","Sporadic",16,0,1,2,0,0,1,3,2,1,3,0,1,7,6,30,56,111,118,112,90
+3775,"Zoonavena sylvatica","White-rumped Needletail","Sporadic",19,3,13,7,0,21,12,30,20,25,36,32,22,38,82,92,160,128,128,118,151
+3835,"Hirundapus giganteus","Brown-backed Needletail","Sporadic",18,2,3,0,0,11,5,18,17,18,24,16,19,32,81,87,113,85,145,241,247
+3894,"Aerodramus unicolor","Indian Swiftlet","Regular",20,6,40,5,1,54,59,69,47,82,97,55,69,121,296,581,685,590,826,715,713
+3985,"Apus melba","Alpine Swift","Regular",20,1,6,1,3,13,20,17,15,11,17,15,10,31,72,110,169,221,366,231,249
+4002,"Apus apus","Common Swift","Sporadic",4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0
+4038,"Apus leuconyx","Blyth's Swift","Sporadic",16,0,1,1,0,2,5,7,1,4,1,0,2,0,8,9,21,2,12,31,25
+4043,"Apus affinis","Little Swift","Regular",20,3,8,5,4,17,12,32,24,24,36,31,24,96,237,448,1007,914,1265,1627,1482
+4078,"Cypsiurus balasiensis","Asian Palm-Swift","Regular",20,2,9,7,10,29,18,45,53,15,43,25,35,306,995,1813,2338,2138,2763,5168,4355
+4105,"Hemiprocne coronata","Crested Treeswift","Sporadic",19,2,17,8,0,19,12,30,22,24,22,17,22,85,106,128,217,164,130,212,277
+5188,"Lewinia striata","Slaty-breasted Rail","Sporadic",11,2,0,0,0,0,0,0,0,0,0,1,1,7,18,30,48,21,75,77,72
+5314,"Porzana porzana","Spotted Crake","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0
+5321,"Gallinula chloropus","Eurasian Moorhen","Regular",20,4,5,8,4,13,8,7,7,4,6,17,8,90,91,198,361,209,232,282,250
+5346,"Fulica atra","Eurasian Coot","Regular",20,8,9,17,3,9,13,3,10,11,6,32,43,211,164,317,605,271,400,334,198
+5390,"Porphyrio poliocephalus","Gray-headed Swamphen","Regular",20,8,25,23,16,42,35,15,26,19,29,62,93,732,1405,1543,1798,1978,2276,1885,1947
+5404,"Gallicrex cinerea","Watercock","Regular",20,3,2,13,2,3,4,1,5,3,4,8,21,111,165,184,317,172,271,271,296
+5407,"Amaurornis phoenicurus","White-breasted Waterhen","Regular",20,25,31,35,48,77,66,44,42,45,53,62,116,775,1634,2382,3260,3977,4256,5315,5340
+5436,"Rallina eurizonoides","Slaty-legged Crake","Sporadic",10,0,0,1,0,0,0,0,2,0,0,0,0,3,5,11,10,16,21,45,58
+5445,"Zapornia fusca","Ruddy-breasted Crake","Sporadic",15,4,3,2,0,2,0,0,0,0,3,4,12,35,66,87,157,83,197,164,182
+5456,"Zapornia pusilla","Baillon's Crake","Sporadic",15,1,3,0,0,2,1,3,1,0,1,0,0,9,41,98,126,48,45,108,42
+5601,"Burhinus indicus","Indian Thick-knee","Sporadic",8,0,0,0,0,0,0,0,0,0,0,0,0,2,4,7,19,12,41,125,147
+5616,"Esacus recurvirostris","Great Thick-knee","Sporadic",10,0,0,0,0,0,0,0,0,0,2,0,1,1,4,8,9,11,5,25,71
+5619,"Himantopus himantopus","Black-winged Stilt","Regular",20,10,12,16,12,20,15,8,8,7,10,12,34,327,721,918,1110,1105,1194,620,896
+5633,"Recurvirostra avosetta","Pied Avocet","Sporadic",11,0,0,0,1,0,0,1,0,1,1,1,1,1,14,4,9,0,14,0,0
+5640,"Haematopus ostralegus","Eurasian Oystercatcher","Sporadic",13,1,0,0,0,1,0,0,0,0,3,5,7,6,25,14,16,18,32,49,32
+5664,"Pluvialis squatarola","Black-bellied Plover","Sporadic",19,1,2,6,1,3,3,2,0,3,6,5,10,28,22,16,29,43,141,115,95
+5668,"Pluvialis dominica","American Golden-Plover","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5669,"Pluvialis fulva","Pacific Golden-Plover","Regular",20,12,5,13,7,15,15,7,10,5,12,17,33,178,258,310,526,382,457,525,691
+5683,"Vanellus malabaricus","Yellow-wattled Lapwing","Sporadic",19,0,1,2,1,6,7,1,2,1,4,11,12,41,184,152,255,214,265,395,500
+5702,"Vanellus cinereus","Gray-headed Lapwing","Sporadic",15,0,1,0,0,0,1,0,3,1,1,3,8,10,34,20,32,35,40,69,69
+5703,"Vanellus indicus","Red-wattled Lapwing","Regular",20,26,40,24,23,87,86,49,65,49,83,85,152,1113,2637,3181,4140,4329,5044,5922,5595
+5714,"Vanellus leucurus","White-tailed Lapwing","Sporadic",4,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,15
+5727,"Charadrius mongolus","Lesser Sand-Plover","Regular",20,3,4,10,4,15,15,3,6,11,25,19,29,162,332,207,410,381,685,659,675
+5735,"Charadrius leschenaultii","Greater Sand-Plover","Sporadic",19,3,1,3,0,1,3,1,4,5,15,10,18,98,145,52,151,140,256,225,205
+5740,"Charadrius asiaticus","Caspian Plover","Sporadic",5,0,0,0,0,0,0,0,0,0,0,0,8,1,1,0,0,1,1,0,0
+5750,"Charadrius alexandrinus","Kentish Plover","Regular",20,6,7,3,5,10,9,6,5,7,14,8,15,69,111,95,176,163,193,207,230
+5767,"Charadrius hiaticula","Common Ringed Plover","Sporadic",8,0,0,0,0,0,0,0,0,0,0,0,0,9,11,10,15,13,23,18,27
+5775,"Charadrius dubius","Little Ringed Plover","Regular",20,6,7,9,11,25,25,7,13,6,23,17,30,117,276,410,544,470,645,598,695
+5825,"Rostratula benghalensis","Greater Painted-Snipe","Sporadic",16,3,1,1,0,4,3,0,0,0,1,3,3,14,42,54,103,48,64,64,79
+5835,"Hydrophasianus chirurgus","Pheasant-tailed Jacana","Regular",20,4,12,8,7,14,16,9,9,9,11,25,44,95,196,325,705,451,615,615,593
+5836,"Metopidius indicus","Bronze-winged Jacana","Regular",20,10,17,14,12,32,36,18,22,24,25,44,72,386,967,1167,1233,1308,1549,1473,1560
+5854,"Numenius phaeopus","Whimbrel","Sporadic",19,3,1,1,0,5,4,6,2,5,8,13,18,85,180,145,173,151,316,242,325
+5869,"Numenius arquata","Eurasian Curlew","Sporadic",19,4,2,5,4,3,2,2,6,2,0,4,9,43,48,92,94,82,110,81,52
+5875,"Limosa lapponica","Bar-tailed Godwit","Sporadic",16,1,0,2,0,5,1,1,2,0,2,0,5,4,23,27,25,44,17,43,32
+5880,"Limosa limosa","Black-tailed Godwit","Sporadic",19,2,4,1,3,4,3,0,4,1,1,5,12,87,136,187,250,245,326,164,290
+5891,"Arenaria interpres","Ruddy Turnstone","Sporadic",15,1,0,0,0,1,0,0,3,7,4,7,14,49,83,56,60,63,107,61,70
+5899,"Calidris tenuirostris","Great Knot","Sporadic",14,1,0,0,0,0,0,0,1,1,3,1,5,9,25,10,9,3,7,4,14
+5900,"Calidris canutus","Red Knot","Sporadic",3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,4,0
+5911,"Calidris pugnax","Ruff","Sporadic",17,4,1,3,2,0,0,0,2,2,1,2,3,28,26,50,85,78,49,59,46
+5912,"Calidris falcinellus","Broad-billed Sandpiper","Sporadic",15,1,0,0,0,1,0,1,2,1,0,3,4,20,34,9,52,35,62,84,37
+5917,"Calidris ferruginea","Curlew Sandpiper","Regular",20,1,7,1,1,2,2,2,3,2,3,5,9,74,66,64,113,98,108,105,105
+5918,"Calidris temminckii","Temminck's Stint","Sporadic",19,10,6,6,3,4,2,1,2,0,4,9,9,53,78,112,216,199,242,203,285
+5919,"Calidris subminuta","Long-toed Stint","Sporadic",9,0,0,0,0,0,1,1,0,0,0,0,0,0,7,8,54,20,30,9,26
+5922,"Calidris alba","Sanderling","Sporadic",18,1,0,1,1,4,4,0,2,3,6,9,18,47,79,54,75,82,149,165,147
+5923,"Calidris alpina","Dunlin","Sporadic",17,1,0,1,1,1,3,1,1,0,0,3,2,5,15,6,18,15,15,46,16
+5946,"Calidris minuta","Little Stint","Regular",20,7,9,8,4,8,9,4,6,4,6,10,14,76,155,201,361,255,393,282,321
+5951,"Calidris subruficollis","Buff-breasted Sandpiper","Sporadic",1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+5953,"Calidris melanotos","Pectoral Sandpiper","Sporadic",3,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,2,1,0,0,0
+5961,"Limnodromus semipalmatus","Asian Dowitcher","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0
+5966,"Limnodromus scolopaceus","Long-billed Dowitcher","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5968,"Lymnocryptes minimus","Jack Snipe","Sporadic",4,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+5969,"Scolopax rusticola","Eurasian Woodcock","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+5992,"Gallinago nemoricola","Wood Snipe","Sporadic",2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5994,"Gallinago gallinago","Common Snipe","Sporadic",18,2,6,3,0,0,2,1,3,5,6,13,22,73,104,103,247,193,263,244,311
+6006,"Gallinago stenura","Pin-tailed Snipe","Sporadic",17,0,3,0,0,3,2,2,4,5,2,5,10,43,117,213,180,93,148,170,267
+6019,"Xenus cinereus","Terek Sandpiper","Sporadic",19,1,0,2,1,3,5,1,2,4,4,4,18,54,91,66,60,56,107,112,109
+6021,"Phalaropus lobatus","Red-necked Phalarope","Sporadic",4,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,2,10
+6025,"Actitis hypoleucos","Common Sandpiper","Regular",20,28,29,23,21,64,64,30,32,42,62,81,110,666,1288,1462,2042,2124,2444,2214,2349
+6028,"Tringa ochropus","Green Sandpiper","Regular",20,19,16,12,10,26,25,16,18,23,36,40,49,125,219,281,472,489,522,561,534
+6035,"Tringa erythropus","Spotted Redshank","Sporadic",10,0,0,0,0,0,0,0,2,1,0,0,0,7,16,9,9,24,14,14,29
+6037,"Tringa nebularia","Common Greenshank","Regular",20,12,14,10,6,29,31,6,14,10,38,26,52,245,452,563,697,845,999,780,1056
+6045,"Tringa stagnatilis","Marsh Sandpiper","Regular",20,12,10,8,5,18,13,6,9,4,6,11,19,137,199,212,293,365,426,230,288
+6046,"Tringa glareola","Wood Sandpiper","Regular",20,25,25,20,17,28,42,21,21,18,35,57,82,443,1066,1278,1567,1601,1802,1631,1946
+6047,"Tringa totanus","Common Redshank","Regular",20,6,6,7,3,20,20,6,5,3,13,11,24,130,171,194,327,323,423,291,370
+6085,"Turnix tanki","Yellow-legged Buttonquail","Sporadic",9,0,1,0,0,0,0,1,0,0,2,0,0,0,1,0,1,3,1,6,4
+6091,"Turnix suscitator","Barred Buttonquail","Sporadic",11,0,0,0,0,0,0,1,0,0,0,2,1,1,5,3,8,21,21,19,25
+6124,"Dromas ardeola","Crab-Plover","Sporadic",11,0,0,0,0,0,0,1,0,0,1,1,5,8,5,5,7,0,35,8,1
+6152,"Glareola pratincola","Collared Pratincole","Sporadic",8,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,6,3,7,11,11
+6156,"Glareola maldivarum","Oriental Pratincole","Sporadic",12,0,0,0,0,0,1,0,1,0,1,0,3,4,6,2,16,6,10,19,6
+6165,"Glareola lactea","Small Pratincole","Regular",20,7,8,9,3,3,3,2,6,7,10,11,9,40,66,99,141,105,135,137,139
+6170,"Stercorarius maccormicki","South Polar Skua","Sporadic",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6171,"Stercorarius antarcticus","Brown Skua","Sporadic",2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6176,"Stercorarius pomarinus","Pomarine Jaeger","Sporadic",10,0,0,0,0,0,0,2,0,0,0,3,2,0,2,7,21,15,2,6,4
+6177,"Stercorarius parasiticus","Parasitic Jaeger","Sporadic",13,0,0,0,0,0,0,1,0,3,7,14,5,7,37,15,43,37,10,12,16
+6179,"Stercorarius longicaudus","Long-tailed Jaeger","Sporadic",6,0,0,0,0,0,0,0,0,0,2,5,0,0,2,2,2,1,0,0,0
+6254,"Rissa tridactyla","Black-legged Kittiwake","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0
+6260,"Xema sabini","Sabine's Gull","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6266,"Chroicocephalus genei","Slender-billed Gull","Sporadic",12,0,0,1,1,0,0,0,0,0,3,0,3,5,25,67,42,38,111,41,32
+6285,"Chroicocephalus ridibundus","Black-headed Gull","Regular",20,3,4,7,3,17,11,2,4,6,19,12,13,57,163,231,158,226,273,141,178
+6288,"Chroicocephalus brunnicephalus","Brown-headed Gull","Regular",20,2,5,3,3,13,11,4,4,6,23,17,16,61,177,220,154,301,347,254,258
+6309,"Ichthyaetus ichthyaetus","Pallas's Gull","Sporadic",19,2,1,0,1,9,3,3,2,1,5,3,3,6,23,19,34,73,36,34,35
+6318,"Larus canus","Common Gull","Sporadic",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0
+6352,"Larus cachinnans","Caspian Gull","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6368,"Larus fuscus","Lesser Black-backed Gull","Sporadic",18,0,0,2,1,4,3,3,4,5,10,5,10,43,90,80,120,188,227,244,286
+6410,"Anous stolidus","Brown Noddy","Sporadic",6,0,0,1,0,0,0,0,0,0,0,3,2,2,0,0,0,1,0,1,0
+6426,"Anous tenuirostris","Lesser Noddy","Sporadic",5,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0
+6440,"Gygis alba","White Tern","Sporadic",3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+6446,"Onychoprion fuscatus","Sooty Tern","Sporadic",7,0,0,0,0,0,0,0,0,0,4,2,1,4,0,0,0,0,2,4,2
+6456,"Onychoprion anaethetus","Bridled Tern","Sporadic",13,0,0,1,0,0,0,0,0,2,28,23,11,12,30,18,26,10,12,17,5
+6465,"Sternula albifrons","Little Tern","Regular",20,1,8,5,1,1,2,3,2,3,3,4,5,33,62,27,136,150,113,92,103
+6493,"Gelochelidon nilotica","Gull-billed Tern","Regular",20,2,6,8,2,14,9,6,4,8,9,10,17,73,156,188,259,230,237,194,159
+6501,"Hydroprogne caspia","Caspian Tern","Sporadic",11,1,0,0,0,1,2,0,0,0,0,0,0,3,20,9,58,30,72,33,18
+6503,"Chlidonias niger","Black Tern","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6506,"Chlidonias leucopterus","White-winged Tern","Sporadic",10,0,0,0,0,0,0,0,0,0,0,2,1,2,6,1,19,4,2,12,5
+6507,"Chlidonias hybrida","Whiskered Tern","Regular",20,35,33,42,22,58,55,40,45,49,65,76,124,792,1412,1794,2046,2621,2042,1716,1899
+6513,"Sterna dougallii","Roseate Tern","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0
+6523,"Sterna sumatrana","Black-naped Tern","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+6526,"Sterna hirundo","Common Tern","Sporadic",16,0,0,0,0,2,2,3,4,4,9,3,9,34,66,51,85,90,116,77,85
+6549,"Sterna acuticauda","Black-bellied Tern","Sporadic",3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,0,0,0,0
+6550,"Sterna aurantia","River Tern","Regular",20,1,8,10,2,20,9,21,16,7,28,16,27,137,242,275,395,378,393,397,303
+6556,"Thalasseus bergii","Great Crested Tern","Sporadic",19,1,1,0,1,1,1,3,2,3,15,7,13,27,101,52,95,81,203,199,166
+6561,"Thalasseus sandvicensis","Sandwich Tern","Sporadic",17,1,0,0,2,1,0,1,1,5,5,3,2,7,31,22,19,12,31,25,19
+6569,"Thalasseus bengalensis","Lesser Crested Tern","Regular",20,1,1,2,1,2,2,3,2,4,14,11,9,35,103,56,117,85,195,177,150
+6592,"Phaethon lepturus","White-tailed Tropicbird","Sporadic",4,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0
+6599,"Phaethon aethereus","Red-billed Tropicbird","Sporadic",6,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,2,2,0,0
+6685,"Oceanites oceanicus","Wilson's Storm-Petrel","Sporadic",10,0,0,0,0,0,0,0,0,0,15,14,5,1,29,10,29,0,27,2,1
+6732,"Hydrobates monorhis","Swinhoe's Storm-Petrel","Sporadic",9,0,0,0,0,0,0,0,0,0,9,14,3,4,19,2,3,1,6,0,0
+6846,"Bulweria fallax","Jouanin's Petrel","Sporadic",4,0,0,0,0,0,0,0,1,0,4,0,0,0,1,0,0,0,1,0,0
+6862,"Calonectris leucomelas","Streaked Shearwater","Sporadic",2,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0
+6863,"Calonectris diomedea","Cory's Shearwater","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6869,"Ardenna carneipes","Flesh-footed Shearwater","Sporadic",12,0,0,1,0,0,0,0,0,2,11,15,16,14,14,15,5,0,2,2,2
+6872,"Ardenna pacifica","Wedge-tailed Shearwater","Sporadic",2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+6875,"Ardenna tenuirostris","Short-tailed Shearwater","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0
+6909,"Puffinus bailloni","Tropical Shearwater","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6916,"Puffinus persicus","Persian Shearwater","Sporadic",3,0,0,0,0,0,0,0,0,0,3,0,0,3,1,0,0,0,0,0,0
+6936,"Anastomus oscitans","Asian Openbill","Regular",20,19,24,25,12,37,37,16,23,17,37,45,80,508,990,1227,1807,1950,2138,2231,2292
+6940,"Ciconia nigra","Black Stork","Sporadic",11,0,0,0,0,0,1,1,0,0,0,2,0,1,1,9,6,8,12,2,5
+6942,"Ciconia episcopus","Woolly-necked Stork","Regular",20,4,11,9,4,20,18,7,11,8,16,39,46,175,323,474,774,929,1301,971,1177
+6949,"Ciconia ciconia","White Stork","Sporadic",12,0,0,0,0,0,1,0,0,1,0,1,7,13,17,35,29,47,54,6,13
+6959,"Leptoptilos javanicus","Lesser Adjutant","Sporadic",9,0,0,0,0,2,0,0,0,0,1,0,1,0,1,1,2,3,2,0,1
+6966,"Mycteria leucocephala","Painted Stork","Regular",20,2,2,2,1,2,4,1,10,1,9,18,33,227,232,307,686,574,635,549,455
+6970,"Fregata ariel","Lesser Frigatebird","Sporadic",7,0,0,0,0,0,0,1,1,0,1,0,1,0,3,0,3,0,0,2,0
+6979,"Fregata andrewsi","Christmas Island Frigatebird","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0
+6980,"Fregata minor","Great Frigatebird","Sporadic",6,0,0,0,0,1,2,0,1,0,0,0,0,0,1,0,1,0,1,0,0
+6987,"Sula dactylatra","Masked Booby","Sporadic",8,0,0,0,0,0,0,0,0,3,1,3,0,3,4,0,1,0,0,18,15
+7005,"Sula sula","Red-footed Booby","Sporadic",3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0
+7021,"Anhinga melanogaster","Oriental Darter","Regular",20,18,38,43,19,63,49,53,45,52,38,79,145,986,1739,1893,2769,3210,3114,2727,2670
+7031,"Microcarbo niger","Little Cormorant","Regular",20,44,52,53,51,145,125,84,74,96,121,143,226,1948,4292,4715,6102,6991,7649,8173,7696
+7042,"Phalacrocorax carbo","Great Cormorant","Regular",20,6,11,6,3,22,16,16,14,11,18,25,24,83,147,212,167,172,256,296,219
+7058,"Phalacrocorax fuscicollis","Indian Cormorant","Regular",20,24,23,25,16,34,28,23,28,26,35,54,87,544,985,989,1369,1569,2114,1976,1814
+7116,"Pelecanus philippensis","Spot-billed Pelican","Sporadic",13,1,0,0,1,3,0,0,0,0,0,1,4,75,47,33,215,153,175,127,170
+7128,"Botaurus stellaris","Great Bittern","Sporadic",5,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2,0,1,0,0
+7133,"Ixobrychus sinensis","Yellow Bittern","Regular",20,8,6,5,3,3,6,5,6,1,5,10,16,77,132,176,336,202,249,231,228
+7141,"Ixobrychus cinnamomeus","Cinnamon Bittern","Regular",20,10,3,7,4,5,6,3,6,2,3,6,20,37,67,115,144,70,114,212,176
+7145,"Ixobrychus flavicollis","Black Bittern","Regular",20,10,7,6,3,8,10,6,4,2,8,3,20,58,105,124,121,64,162,139,150
+7176,"Ardea cinerea","Gray Heron","Regular",20,20,23,21,12,51,45,14,23,21,24,60,77,591,995,1402,1992,1836,2012,1699,1856
+7193,"Ardea purpurea","Purple Heron","Regular",20,34,30,37,24,58,63,27,47,36,51,87,116,1066,2200,2695,3081,3671,3967,4244,4278
+7200,"Ardea alba","Great Egret","Regular",20,25,26,30,23,60,63,24,33,36,48,90,122,708,1570,1802,2256,2670,3326,3362,3437
+7207,"Ardea intermedia","Intermediate Egret","Regular",20,38,37,34,22,93,82,52,45,53,68,87,145,1189,2279,2532,3042,3823,4377,4596,4161
+7217,"Egretta garzetta","Little Egret","Regular",20,45,53,37,30,100,100,77,70,61,87,125,187,1468,2915,3838,4516,5773,5940,5807,5072
+7221,"Egretta gularis","Western Reef-Heron","Regular",20,4,4,6,5,17,21,9,10,22,15,18,35,160,307,301,434,694,698,343,403
+7247,"Bubulcus ibis","Cattle Egret","Regular",20,37,55,38,44,122,106,69,75,77,85,100,172,1618,2975,5050,7566,9010,8883,8908,9222
+7253,"Ardeola grayii","Indian Pond-Heron","Regular",20,46,79,55,41,158,138,136,103,110,155,172,270,2656,6055,8438,9573,12370,12434,13169,11778
+7254,"Ardeola bacchus","Chinese Pond-Heron","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0
+7267,"Butorides striata","Striated Heron","Regular",20,5,4,3,2,26,22,16,10,15,12,17,21,97,176,204,251,304,336,246,304
+7305,"Nycticorax nycticorax","Black-crowned Night-Heron","Regular",20,13,12,12,4,23,14,13,12,20,15,21,52,254,384,682,1000,1502,1628,1785,1650
+7332,"Gorsachius melanolophus","Malayan Night-Heron","Sporadic",14,0,0,0,0,1,4,0,2,1,4,1,3,0,4,2,7,4,6,2,2
+7346,"Plegadis falcinellus","Glossy Ibis","Regular",20,5,4,8,3,4,2,2,8,4,6,18,48,304,423,484,938,821,749,704,803
+7374,"Threskiornis melanocephalus","Black-headed Ibis","Regular",20,16,15,25,10,26,28,14,16,24,29,54,85,692,1583,2073,2757,3101,4112,4290,4123
+7379,"Pseudibis papillosa","Red-naped Ibis","Sporadic",6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,4,2,4
+7398,"Platalea leucorodia","Eurasian Spoonbill","Sporadic",14,0,0,1,0,6,0,0,0,2,2,7,5,84,68,128,300,146,138,93,62
+7429,"Pandion haliaetus","Osprey","Regular",20,2,6,7,6,17,12,17,9,12,11,21,25,81,163,194,282,323,330,304,304
+7438,"Elanus caeruleus","Black-winged Kite","Regular",20,5,6,4,1,11,8,18,12,7,11,21,24,30,67,130,209,160,297,99,256
+7459,"Neophron percnopterus","Egyptian Vulture","Sporadic",7,0,1,0,1,0,0,0,1,1,2,0,0,0,0,0,0,0,1,22,0
+7476,"Pernis ptilorhynchus","Oriental Honey-buzzard","Regular",20,3,12,5,2,31,22,63,42,54,76,45,64,139,263,415,573,708,959,1347,1238
+7498,"Aviceda jerdoni","Jerdon's Baza","Sporadic",9,0,1,0,0,0,0,1,1,1,0,0,0,0,1,2,4,0,0,4,6
+7518,"Aviceda leuphotes","Black Baza","Sporadic",19,3,2,3,0,4,11,15,13,18,15,15,28,52,66,90,79,128,146,112,131
+7523,"Sarcogyps calvus","Red-headed Vulture","Sporadic",12,0,0,0,0,1,1,0,0,3,0,0,1,6,10,13,32,3,6,5,9
+7532,"Gyps bengalensis","White-rumped Vulture","Sporadic",14,0,1,0,1,0,1,1,0,6,0,0,1,13,13,21,41,8,8,11,9
+7533,"Gyps indicus","Indian Vulture","Sporadic",5,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,2,0,1
+7539,"Gyps himalayensis","Himalayan Griffon","Sporadic",3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2
+7540,"Gyps fulvus","Eurasian Griffon","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+7554,"Spilornis cheela","Crested Serpent-Eagle","Regular",20,6,35,8,3,64,41,118,55,80,116,50,86,320,609,932,1536,1628,1948,2297,2333
+7584,"Circaetus gallicus","Short-toed Snake-Eagle","Sporadic",15,0,2,1,0,0,0,1,2,2,2,3,0,10,8,10,7,7,17,6,10
+7601,"Nisaetus cirrhatus","Changeable Hawk-Eagle","Sporadic",19,6,13,5,0,12,9,14,18,19,24,20,28,82,129,231,428,546,737,790,821
+7613,"Nisaetus kelaarti","Legge's Hawk-Eagle","Sporadic",19,1,2,1,0,2,2,3,4,2,6,6,9,8,29,10,26,21,26,34,28
+7624,"Lophotriorchis kienerii","Rufous-bellied Eagle","Sporadic",19,3,10,2,0,9,8,13,9,11,16,12,9,23,59,48,59,82,103,92,104
+7637,"Ictinaetus malaiensis","Black Eagle","Sporadic",19,1,18,4,0,42,25,55,28,47,53,36,36,96,184,262,369,369,479,412,539
+7641,"Clanga hastata","Indian Spotted Eagle","Sporadic",15,0,0,0,0,1,1,0,1,1,2,6,9,14,15,17,31,16,8,26,9
+7642,"Clanga clanga","Greater Spotted Eagle","Sporadic",18,0,1,0,2,2,1,2,3,3,6,8,7,24,29,48,118,171,136,162,135
+7647,"Hieraaetus pennatus","Booted Eagle","Sporadic",19,0,7,4,2,8,10,23,20,25,32,28,17,70,95,162,315,378,409,695,644
+7655,"Aquila nipalensis","Steppe Eagle","Sporadic",14,0,3,0,0,1,2,1,1,1,3,0,1,6,0,0,10,6,2,1,2
+7660,"Aquila heliaca","Imperial Eagle","Sporadic",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7674,"Aquila fasciata","Bonelli's Eagle","Sporadic",19,2,2,2,0,4,4,3,5,5,4,7,3,10,23,11,15,29,74,49,54
+7713,"Butastur teesa","White-eyed Buzzard","Sporadic",15,0,0,0,0,1,1,3,3,1,2,0,1,3,1,11,27,31,19,21,23
+7716,"Circus aeruginosus","Eurasian Marsh-Harrier","Regular",20,17,28,18,10,32,34,16,26,21,32,33,40,165,359,346,675,953,773,675,615
+7720,"Circus spilonotus","Eastern Marsh-Harrier","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+7734,"Circus macrourus","Pallid Harrier","Sporadic",18,0,1,1,0,5,3,4,4,8,5,14,4,5,4,28,14,16,30,12,9
+7736,"Circus melanoleucos","Pied Harrier","Sporadic",10,0,1,0,0,0,1,1,1,0,0,0,0,2,0,0,2,7,27,3,4
+7737,"Circus pygargus","Montagu's Harrier","Sporadic",14,0,2,0,0,5,2,0,1,0,1,1,0,1,2,16,17,10,10,5,5
+7742,"Accipiter trivirgatus","Crested Goshawk","Regular",20,1,4,7,2,11,15,26,28,27,38,35,32,41,121,168,205,211,216,330,299
+7769,"Accipiter badius","Shikra","Regular",20,6,5,4,30,47,32,50,36,35,56,46,45,403,853,1572,2209,2627,2604,3503,3010
+7856,"Accipiter virgatus","Besra","Sporadic",19,1,10,1,0,12,9,10,6,11,9,5,4,2,15,11,14,8,31,14,31
+7885,"Accipiter nisus","Eurasian Sparrowhawk","Sporadic",13,0,2,0,1,0,0,0,2,0,0,1,1,2,1,4,3,4,6,13,6
+7948,"Milvus migrans","Black Kite","Regular",20,5,14,8,50,80,84,69,51,35,53,64,72,885,2538,3348,4504,6907,7358,10415,7075
+7961,"Haliastur indus","Brahminy Kite","Regular",20,20,51,34,46,156,90,67,76,74,133,131,203,1814,5308,8230,9679,14390,13600,18241,15014
+7974,"Haliaeetus leucogaster","White-bellied Sea-Eagle","Sporadic",17,0,1,0,1,7,11,0,2,2,13,5,1,9,49,59,91,121,190,338,414
+7978,"Haliaeetus humilis","Lesser Fish-Eagle","Sporadic",19,1,1,1,0,11,1,19,5,5,7,5,6,22,35,37,37,27,93,18,33
+7981,"Haliaeetus ichthyaetus","Gray-headed Fish-Eagle","Sporadic",6,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,1,0,0,1,2
+8123,"Buteo buteo","Common Buzzard","Sporadic",18,1,2,0,0,4,3,2,13,10,10,25,7,7,14,14,17,21,39,37,33
+8193,"Tyto alba","Barn Owl","Sporadic",16,1,0,0,0,2,2,0,2,2,4,3,6,45,76,56,117,284,327,463,221
+8234,"Phodilus assimilis","Sri Lanka Bay-Owl","Sporadic",16,2,0,0,0,1,2,0,4,1,2,6,7,13,16,13,17,40,53,43,26
+8263,"Otus bakkamoena","Indian Scops-Owl","Regular",20,2,3,1,1,18,5,15,12,13,9,13,21,62,124,159,183,195,432,647,606
+8339,"Otus brucei","Pallid Scops-Owl","Sporadic",5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,1,2,0
+8350,"Otus sunia","Oriental Scops-Owl","Sporadic",18,0,1,3,0,13,6,16,10,8,6,8,15,25,30,44,63,40,145,57,66
+8527,"Bubo nipalensis","Spot-bellied Eagle-Owl","Sporadic",19,1,1,0,1,3,1,5,4,4,4,3,6,9,15,20,35,34,53,38,66
+8549,"Ketupa zeylonensis","Brown Fish-Owl","Sporadic",19,2,4,0,1,9,5,15,12,8,13,18,15,44,79,127,182,187,259,243,229
+8638,"Glaucidium radiatum","Jungle Owlet","Regular",20,4,15,8,22,75,47,77,63,55,60,35,72,420,924,1253,1879,2473,3550,4021,2972
+8665,"Athene brama","Spotted Owlet","Sporadic",17,0,0,0,1,1,2,1,4,2,4,7,6,81,150,138,175,218,307,469,362
+8733,"Strix ocellata","Mottled Wood-Owl","Sporadic",19,1,2,3,0,7,4,3,9,5,8,11,8,40,79,77,219,382,289,433,387
+8737,"Strix leptogrammica","Brown Wood-Owl","Sporadic",13,0,0,2,0,0,2,0,0,1,3,2,0,3,11,12,63,57,66,103,71
+8829,"Asio flammeus","Short-eared Owl","Sporadic",4,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
+8903,"Ninox scutulata","Brown Boobook","Sporadic",19,2,9,3,0,19,12,21,13,17,20,15,31,61,73,114,202,193,445,487,439
+9119,"Harpactes fasciatus","Malabar Trogon","Regular",20,2,17,10,3,58,39,86,61,68,104,63,82,147,248,329,503,444,611,515,475
+9161,"Upupa epops","Eurasian Hoopoe","Sporadic",19,3,2,0,1,4,3,9,5,1,11,10,13,47,66,138,205,194,222,329,315
+9273,"Buceros bicornis","Great Hornbill","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9278,"Ocyceros birostris","Indian Gray Hornbill","Sporadic",17,0,0,0,1,2,1,1,8,5,4,6,3,165,304,435,747,518,519,911,777
+9279,"Ocyceros griseus","Malabar Gray Hornbill","Regular",20,6,52,27,8,102,66,190,100,129,167,104,129,373,674,789,1501,1449,1808,1573,1390
+9284,"Anthracoceros coronatus","Malabar Pied-Hornbill","Sporadic",18,0,3,3,0,4,1,12,3,7,6,7,5,33,71,50,36,39,52,41,50
+9389,"Alcedo atthis","Common Kingfisher","Regular",20,4,27,22,15,87,75,46,48,55,78,96,135,1074,1963,2045,2631,2630,3380,3380,3790
+9406,"Alcedo meninting","Blue-eared Kingfisher","Sporadic",14,1,0,0,0,2,2,1,0,1,0,0,1,2,4,11,12,10,12,26,29
+9448,"Ceyx erithaca","Black-backed Dwarf-Kingfisher","Sporadic",16,0,0,0,0,1,2,1,1,3,1,4,4,4,6,13,15,41,42,26,27
+9524,"Pelargopsis capensis","Stork-billed Kingfisher","Regular",20,5,13,15,10,68,53,63,45,47,69,58,73,639,1441,1627,2003,2309,2901,2929,3119
+9558,"Halcyon smyrnensis","White-throated Kingfisher","Regular",20,13,53,33,68,198,154,175,136,114,164,161,209,2353,5645,8318,10430,12004,12900,17160,14134
+9571,"Halcyon pileata","Black-capped Kingfisher","Regular",20,3,2,2,2,6,4,6,3,11,11,5,2,22,56,44,64,61,52,49,70
+9783,"Ceryle rudis","Pied Kingfisher","Regular",20,9,20,11,8,49,42,15,18,21,38,49,53,315,698,746,854,860,995,995,978
+9802,"Nyctyornis athertoni","Blue-bearded Bee-eater","Sporadic",18,0,3,1,0,12,4,5,10,5,10,7,8,44,43,74,116,113,140,122,147
+9838,"Merops orientalis","Green Bee-eater","Regular",20,3,16,8,11,26,28,29,40,29,64,64,88,988,2172,2917,3879,4203,4787,6614,6378
+9851,"Merops viridis","Blue-throated Bee-eater","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+9853,"Merops persicus","Blue-cheeked Bee-eater","Sporadic",9,0,0,0,0,0,0,0,0,0,0,1,0,90,163,92,169,84,59,31,18
+9859,"Merops philippinus","Blue-tailed Bee-eater","Regular",20,4,16,6,11,31,20,34,36,36,53,67,103,732,2076,2285,3250,4525,4792,6136,5981
+9862,"Merops apiaster","European Bee-eater","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+9863,"Merops leschenaulti","Chestnut-headed Bee-eater","Regular",20,5,25,7,4,49,35,83,64,55,83,56,85,302,529,663,1083,1049,1131,1330,1382
+9871,"Coracias garrulus","European Roller","Sporadic",10,3,0,0,0,0,0,0,0,0,0,5,1,3,5,0,7,11,2,21,21
+9882,"Coracias benghalensis","Indian Roller","Regular",20,4,12,6,2,13,8,11,18,15,25,20,39,231,487,642,765,713,1069,1174,1014
+9901,"Eurystomus orientalis","Dollarbird","Regular",20,1,11,7,1,13,6,31,25,13,26,16,36,72,124,119,162,148,205,150,120
+10220,"Psilopogon malabaricus","Malabar Barbet","Regular",20,5,53,9,4,66,35,139,81,63,87,48,79,167,291,401,650,705,983,868,750
+10222,"Psilopogon haemacephalus","Coppersmith Barbet","Regular",20,6,7,3,9,41,9,47,32,13,38,50,36,320,691,726,1285,1485,1644,1806,1628
+10273,"Psilopogon zeylanicus","Brown-headed Barbet","Sporadic",16,2,0,0,0,3,1,4,8,0,7,32,8,7,27,33,33,52,46,57,90
+10278,"Psilopogon viridis","White-cheeked Barbet","Regular",20,13,90,26,60,213,155,340,212,246,234,200,223,1963,5938,9300,13733,17932,18849,23812,18436
+10519,"Jynx torquilla","Eurasian Wryneck","Sporadic",14,0,0,0,0,1,1,2,1,1,1,0,0,1,1,10,1,3,8,37,9
+10528,"Picumnus innominatus","Speckled Piculet","Sporadic",17,0,4,0,0,6,10,6,5,6,11,2,5,4,20,21,28,32,30,36,45
+10632,"Hemicircus canente","Heart-spotted Woodpecker","Regular",20,2,24,14,4,53,31,68,58,68,88,38,59,154,240,309,411,426,526,508,480
+10736,"Yungipicus nanus","Brown-capped Pygmy Woodpecker","Regular",20,6,12,9,1,33,15,53,53,35,46,32,55,142,277,382,464,598,704,956,861
+10761,"Leiopicus mahrattensis","Yellow-crowned Woodpecker","Sporadic",18,3,1,0,0,4,3,2,3,5,5,7,10,10,29,46,66,48,39,56,69
+11011,"Chrysocolaptes guttacristatus","Greater Flameback","Regular",20,5,28,12,4,74,37,95,54,75,68,60,77,214,418,555,977,1112,1301,1352,1464
+11028,"Chrysocolaptes festivus","White-naped Woodpecker","Sporadic",8,0,0,0,0,0,0,0,1,0,0,0,0,2,1,1,2,0,6,2,5
+11058,"Micropternus brachyurus","Rufous Woodpecker","Regular",20,3,7,2,1,22,7,18,19,16,28,21,19,140,188,374,500,833,765,979,1127
+11090,"Dinopium javanense","Common Flameback","Sporadic",19,3,34,3,0,45,24,48,30,24,25,17,14,39,22,22,37,52,69,36,23
+11099,"Dinopium benghalense","Black-rumped Flameback","Regular",20,13,29,13,51,128,86,149,87,106,107,68,118,978,2527,4434,5766,6561,7493,10921,8436
+11109,"Picus chlorolophus","Lesser Yellownape","Regular",20,2,12,2,1,23,12,35,36,29,48,19,41,88,150,217,427,430,401,545,587
+11123,"Picus xanthopygaeus","Streak-throated Woodpecker","Sporadic",19,3,5,5,0,9,3,16,8,17,7,11,9,81,117,106,152,147,171,174,155
+11242,"Dryocopus javensis","White-bellied Woodpecker","Regular",20,3,16,6,2,23,19,19,19,15,19,13,21,35,67,84,145,106,189,126,106
+11462,"Falco naumanni","Lesser Kestrel","Sporadic",11,0,1,1,0,0,0,2,1,0,0,0,0,1,3,1,7,1,3,1,0
+11463,"Falco tinnunculus","Eurasian Kestrel","Regular",20,4,18,2,1,15,11,20,23,20,24,45,31,44,62,186,187,145,163,120,170
+11518,"Falco chicquera","Red-necked Falcon","Sporadic",8,0,0,0,0,0,0,0,0,2,0,0,0,1,1,8,11,5,0,1,2
+11524,"Falco amurensis","Amur Falcon","Sporadic",10,0,0,0,0,0,0,0,1,1,0,0,0,5,12,76,41,18,11,38,12
+11539,"Falco subbuteo","Eurasian Hobby","Sporadic",4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,3,0,0,4
+11544,"Falco severus","Oriental Hobby","Sporadic",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11575,"Falco peregrinus","Peregrine Falcon","Sporadic",19,2,3,1,0,8,2,3,6,6,5,12,8,12,21,41,91,67,213,232,149
+11800,"Psittacula eupatria","Alexandrine Parakeet","Sporadic",6,0,0,0,1,0,0,0,0,2,0,0,0,0,1,2,0,2,0,0,2
+11807,"Psittacula krameri","Rose-ringed Parakeet","Regular",20,4,13,2,50,75,64,85,48,34,42,36,52,1076,2387,3361,4798,5880,6651,8544,6745
+11818,"Psittacula cyanocephala","Plum-headed Parakeet","Regular",20,4,34,13,5,82,31,112,76,83,122,58,108,399,734,1162,1944,1897,2254,3317,2911
+11823,"Psittacula columboides","Malabar Parakeet","Regular",20,10,72,19,6,115,48,164,90,104,154,121,155,362,619,853,1314,1196,1746,1291,1096
+12150,"Loriculus vernalis","Vernal Hanging-Parrot","Regular",20,9,57,13,5,98,70,185,119,160,163,84,130,469,995,1783,2873,3161,3716,4063,3730
+12798,"Pitta brachyura","Indian Pitta","Sporadic",19,2,4,12,0,17,12,21,27,18,35,21,29,132,161,277,445,438,428,736,693
+17865,"Pericrocotus cinnamomeus","Small Minivet","Regular",20,7,18,8,2,40,13,59,34,34,46,49,49,163,301,401,597,585,654,742,710
+17900,"Pericrocotus flammeus","Orange Minivet","Regular",20,9,61,17,7,114,60,165,115,134,155,138,159,408,821,1370,2066,1538,2067,2186,2138
+17926,"Pericrocotus divaricatus","Ashy Minivet","Sporadic",3,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0
+18007,"Coracina macei","Large Cuckooshrike","Regular",20,1,7,1,1,22,6,20,34,12,23,18,17,108,160,275,385,494,423,611,612
+18132,"Lalage melanoptera","Black-headed Cuckooshrike","Sporadic",19,3,6,2,0,11,8,12,34,15,20,22,22,112,164,257,360,408,358,591,732
+18872,"Oriolus kundoo","Indian Golden Oriole","Regular",20,7,50,18,14,92,61,148,98,127,138,83,100,645,1281,1688,2860,3899,3664,4060,4011
+18878,"Oriolus chinensis","Black-naped Oriole","Sporadic",19,3,5,3,0,19,21,59,42,39,45,25,33,113,128,212,341,367,393,360,341
+18926,"Oriolus xanthornus","Black-hooded Oriole","Regular",20,5,18,13,20,63,23,76,77,51,102,67,86,1079,2637,3579,5046,5561,6050,8332,7379
+18970,"Artamus fuscus","Ashy Woodswallow","Regular",20,10,16,9,4,27,25,50,34,44,47,61,74,660,1572,1654,2058,2141,2759,2939,3084
+19169,"Tephrodornis sylvicola","Malabar Woodshrike","Regular",20,4,25,5,2,55,26,84,64,65,86,30,68,163,237,319,427,420,607,491,426
+19181,"Tephrodornis pondicerianus","Common Woodshrike","Sporadic",19,2,4,4,0,13,6,24,42,4,13,22,18,69,145,246,338,393,421,554,545
+19188,"Hemipus picatus","Bar-winged Flycatcher-shrike","Sporadic",19,5,15,6,0,21,13,55,40,23,32,31,28,37,90,131,203,177,229,215,293
+19242,"Aegithina tiphia","Common Iora","Regular",20,7,34,11,4,68,33,117,105,88,114,70,73,389,971,1764,2266,2248,2467,4526,4344
+19516,"Rhipidura albogularis","Spot-breasted Fantail","Sporadic",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0
+19523,"Rhipidura aureola","White-browed Fantail","Sporadic",18,0,0,2,1,1,1,5,4,1,2,17,2,15,46,67,101,78,76,67,79
+19657,"Dicrurus macrocercus","Black Drongo","Regular",20,11,22,10,24,58,38,52,65,41,74,105,116,2311,5500,7086,8670,10545,10616,12493,10863
+19665,"Dicrurus leucophaeus","Ashy Drongo","Sporadic",19,7,61,19,0,82,49,139,98,146,137,84,124,327,507,677,1297,1535,1666,1950,1941
+19685,"Dicrurus caerulescens","White-bellied Drongo","Sporadic",18,3,3,0,0,7,3,4,7,10,16,38,14,27,67,106,126,114,150,142,142
+19691,"Dicrurus aeneus","Bronzed Drongo","Regular",20,4,34,16,7,111,38,147,101,103,135,63,99,491,1059,1737,2662,2866,3161,4328,4378
+19700,"Dicrurus hottentottus","Hair-crested Drongo","Sporadic",18,1,2,2,0,2,3,6,1,3,8,0,3,8,18,16,23,43,40,13,40
+19754,"Dicrurus paradiseus","Greater Racket-tailed Drongo","Regular",20,7,72,25,13,150,83,225,132,210,218,138,196,1242,2850,4282,6641,6944,7999,9935,8712
+19899,"Hypothymis azurea","Black-naped Monarch","Regular",20,5,18,11,3,56,22,69,54,80,78,44,36,140,244,449,728,737,722,1203,986
+19959,"Terpsiphone paradisi","Indian Paradise-Flycatcher","Regular",20,8,32,15,1,72,52,124,99,105,111,76,83,449,747,1100,1590,2215,2240,2270,2371
+20240,"Lanius isabellinus","Isabelline Shrike","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+20246,"Lanius cristatus","Brown Shrike","Regular",20,7,26,11,1,41,26,64,61,54,66,57,85,285,508,847,1199,1337,1579,1893,1914
+20258,"Lanius vittatus","Bay-backed Shrike","Sporadic",17,3,1,2,0,1,0,5,2,0,8,13,8,21,33,91,85,81,67,159,124
+20261,"Lanius schach","Long-tailed Shrike","Sporadic",19,2,11,2,0,12,8,7,21,15,14,31,33,72,184,219,285,309,502,411,537
+20640,"Dendrocitta vagabunda","Rufous Treepie","Regular",20,9,20,15,56,115,89,150,113,102,133,116,157,1983,5086,6926,8985,9677,10489,14301,11262
+20662,"Dendrocitta leucogastra","White-bellied Treepie","Regular",20,4,42,23,5,104,60,110,70,70,123,58,104,204,386,434,663,699,1146,649,480
+20725,"Corvus splendens","House Crow","Regular",20,7,29,12,58,103,91,100,82,89,103,108,164,3430,10376,14736,17302,25325,22709,27126,21293
+20792,"Corvus macrorhynchos","Large-billed Crow","Regular",20,12,46,14,55,140,104,185,124,128,128,149,183,1469,4896,7584,9635,12584,13307,17265,13457
+20806,"Corvus macrorhynchos","Large-billed Crow","Regular",20,12,46,14,55,140,104,185,124,128,128,149,183,1469,4896,7584,9635,12584,13307,17265,13457
+21121,"Culicicapa ceylonensis","Gray-headed Canary-Flycatcher","Sporadic",19,2,20,7,0,30,20,37,38,38,30,112,39,27,127,101,155,213,378,126,260
+21385,"Parus cinereus","Cinereous Tit","Regular",20,6,22,9,1,43,11,46,46,48,42,48,60,192,363,544,638,540,762,730,770
+21413,"Machlolophus aplonotus","Indian Yellow Tit","Regular",20,3,25,3,1,28,21,27,31,25,25,40,24,48,102,168,214,178,205,199,304
+21557,"Ammomanes phoenicura","Rufous-tailed Lark","Sporadic",4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,3
+21597,"Eremopterix griseus","Ashy-crowned Sparrow-Lark","Sporadic",13,0,1,0,0,3,0,0,2,0,3,0,1,5,17,26,44,34,30,74,129
+21742,"Mirafra affinis","Jerdon's Bushlark","Sporadic",16,0,1,0,0,2,4,3,7,0,13,9,17,72,223,305,359,339,466,713,759
+21829,"Calandrella dukhunensis","Mongolian Short-toed Lark","Sporadic",13,1,0,0,0,0,1,0,0,1,3,3,0,6,11,36,65,87,72,125,106
+21922,"Alauda gulgula","Oriental Skylark","Sporadic",16,1,0,0,0,3,1,2,6,0,12,13,12,48,106,166,170,163,247,385,360
+21997,"Galerida malabarica","Malabar Lark","Sporadic",16,0,1,0,0,3,4,2,2,0,4,9,8,17,62,96,197,167,201,382,364
+22317,"Orthotomus sutorius","Common Tailorbird","Regular",20,8,17,6,54,98,87,131,97,81,67,80,81,1112,3191,5492,7670,8705,10211,15689,12314
+22399,"Prinia hodgsonii","Gray-breasted Prinia","Regular",20,3,12,4,2,18,12,26,24,22,31,23,21,101,238,635,1140,999,1290,2238,1700
+22422,"Prinia sylvatica","Jungle Prinia","Sporadic",13,0,0,0,0,3,1,0,2,0,4,16,0,10,20,17,21,31,28,25,32
+22437,"Prinia socialis","Ashy Prinia","Regular",20,6,7,3,7,13,10,18,18,7,26,32,68,435,1020,1542,1851,2067,2707,2866,2811
+22454,"Prinia inornata","Plain Prinia","Regular",20,13,6,4,5,15,8,14,27,5,25,46,72,587,1251,1592,1866,2024,2406,2360,2720
+22690,"Cisticola juncidis","Zitting Cisticola","Regular",20,4,7,1,1,1,2,4,13,3,14,11,9,232,514,634,748,701,872,1189,1190
+22759,"Cisticola exilis","Golden-headed Cisticola","Sporadic",9,0,0,0,0,0,0,0,0,4,1,1,0,0,0,3,21,7,3,7,38
+22786,"Arundinax aedon","Thick-billed Warbler","Sporadic",19,4,2,4,0,5,7,16,10,10,8,5,5,13,9,30,29,19,40,20,61
+22789,"Iduna caligata","Booted Warbler","Sporadic",14,0,3,1,0,0,0,1,0,0,5,1,4,5,14,44,56,71,86,67,58
+22790,"Iduna rama","Sykes's Warbler","Sporadic",14,0,0,1,0,0,0,1,1,2,1,1,0,1,5,11,11,17,27,12,7
+22820,"Acrocephalus agricola","Paddyfield Warbler","Sporadic",14,0,0,0,0,1,0,0,4,2,2,1,2,2,5,14,8,31,33,82,93
+22828,"Acrocephalus dumetorum","Blyth's Reed Warbler","Regular",20,7,43,11,5,72,52,170,152,111,113,99,107,386,822,1276,3395,3653,4119,2656,3470
+22872,"Acrocephalus stentoreus","Clamorous Reed Warbler","Sporadic",19,0,5,1,2,1,3,8,10,3,12,8,21,104,283,449,654,851,746,781,886
+22941,"Helopsaltes certhiola","Pallas's Grasshopper Warbler","Sporadic",6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,41,35,6,19,21
+22962,"Locustella naevia","Common Grasshopper-Warbler","Sporadic",15,0,0,1,0,2,1,3,4,3,2,0,1,1,1,3,1,5,2,7,0
+23058,"Schoenicola platyurus","Broad-tailed Grassbird","Sporadic",18,1,2,0,0,14,3,5,10,5,8,7,5,3,12,7,23,12,12,3,8
+23059,"Schoenicola striatus","Bristled Grassbird","Sporadic",8,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,7,15,1,14,0
+23242,"Riparia riparia","Bank Swallow","Sporadic",6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,3,9,1,5
+23287,"Ptyonoprogne concolor","Dusky Crag-Martin","Regular",20,1,7,5,2,21,13,10,18,17,26,18,23,35,82,137,188,223,304,385,450
+23291,"Hirundo rustica","Barn Swallow","Regular",20,13,16,18,7,16,39,57,40,58,44,58,86,656,2010,2377,3638,3810,3431,3193,3108
+23312,"Hirundo smithii","Wire-tailed Swallow","Sporadic",19,1,0,4,2,2,5,2,3,1,9,15,10,23,149,210,234,311,818,937,993
+23318,"Hirundo domicola","Hill Swallow","Sporadic",19,1,5,3,0,22,19,12,22,14,21,59,27,55,88,98,110,120,246,123,248
+23338,"Cecropis daurica","Red-rumped Swallow","Regular",20,12,15,6,5,27,21,51,42,23,35,43,71,200,461,728,1302,1103,1685,2001,2027
+23376,"Petrochelidon fluvicola","Streak-throated Swallow","Sporadic",12,0,0,0,0,1,0,0,0,0,1,3,2,6,11,34,72,71,111,82,150
+23408,"Delichon urbicum","Common House-Martin","Sporadic",10,0,2,0,0,2,0,1,2,0,0,2,0,0,1,0,2,0,5,1,1
+23414,"Delichon dasypus","Asian House-Martin","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+23603,"Brachypodius priocephalus","Gray-headed Bulbul","Sporadic",19,3,7,5,0,21,21,42,25,32,42,34,28,42,67,119,200,167,199,231,152
+23629,"Rubigula gularis","Flame-throated Bulbul","Regular",20,6,35,14,2,65,23,139,76,99,126,63,100,182,397,520,754,721,753,1088,780
+23648,"Pycnonotus cafer","Red-vented Bulbul","Regular",20,10,36,15,16,56,32,61,83,52,72,104,115,1471,2838,4076,5981,6912,7148,9866,8367
+23658,"Pycnonotus jocosus","Red-whiskered Bulbul","Regular",20,12,78,22,49,167,135,261,176,170,211,224,213,1767,3613,6011,8738,10273,11541,15356,13568
+23727,"Pycnonotus xantholaemus","Yellow-throated Bulbul","Sporadic",13,0,0,0,0,0,1,1,0,0,2,1,2,2,7,8,7,3,7,8,3
+23735,"Pycnonotus luteolus","White-browed Bulbul","Sporadic",19,3,4,2,0,6,4,7,19,3,17,26,25,144,356,755,1058,1167,1441,2694,2298
+23840,"Iole indica","Yellow-browed Bulbul","Regular",20,7,78,23,5,119,101,231,126,197,188,129,146,327,730,1228,2108,1740,2725,2520,2280
+23868,"Hypsipetes ganeesa","Square-tailed Bulbul","Regular",20,5,39,4,2,44,42,59,67,71,53,95,54,63,131,143,228,340,704,329,656
+23943,"Phylloscopus inornatus","Yellow-browed Warbler","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+23944,"Phylloscopus humei","Hume's Warbler","Sporadic",2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0
+23957,"Phylloscopus tytleri","Tytler's Leaf Warbler","Sporadic",16,0,0,2,0,7,6,3,8,0,4,4,8,4,8,13,8,10,16,13,11
+23963,"Phylloscopus affinis","Tickell's Leaf Warbler","Sporadic",19,2,11,2,0,19,9,13,23,9,12,44,14,16,26,42,35,56,62,40,69
+23969,"Phylloscopus fuscatus","Dusky Warbler","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+23981,"Phylloscopus trochilus","Willow Warbler","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+23991,"Phylloscopus collybita","Common Chiffchaff","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+24060,"Phylloscopus nitidus","Green Warbler","Sporadic",18,4,1,1,0,2,1,0,1,5,7,12,10,49,72,212,719,1690,1489,1923,1774
+24061,"Phylloscopus trochiloides","Greenish Warbler","Regular",20,5,63,16,25,127,99,224,165,161,104,92,94,291,529,652,1249,1209,1824,1240,1223
+24071,"Phylloscopus magnirostris","Large-billed Leaf Warbler","Regular",20,2,32,13,2,69,55,121,89,122,95,95,49,91,113,129,133,205,402,359,453
+24108,"Phylloscopus occipitalis","Western Crowned Warbler","Sporadic",19,3,8,5,0,23,18,31,15,15,12,16,8,20,17,32,30,51,63,65,95
+24386,"Sylvia atricapilla","Eurasian Blackcap","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+24423,"Curruca curruca","Lesser Whitethroat","Sporadic",10,0,0,0,0,1,0,0,1,0,2,0,2,0,0,12,14,7,15,16,25
+24452,"Curruca crassirostris","Eastern Orphean Warbler","Sporadic",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,7,0
+24506,"Chrysomma sinense","Yellow-eyed Babbler","Sporadic",16,1,0,1,0,1,0,1,1,0,4,3,3,14,15,13,12,11,18,18,19
+24763,"Zosterops palpebrosus","Indian White-eye","Regular",20,5,36,7,3,45,43,56,58,59,50,120,66,121,259,325,473,582,946,656,1006
+25002,"Dumetia hyperythra","Tawny-bellied Babbler","Sporadic",19,1,4,1,0,4,1,4,6,2,12,27,12,37,34,71,79,108,108,159,238
+25006,"Dumetia atriceps","Dark-fronted Babbler","Regular",20,2,22,5,1,47,39,97,52,78,92,38,35,69,165,183,301,253,376,402,373
+25159,"Pomatorhinus horsfieldii","Indian Scimitar-Babbler","Regular",20,5,44,7,3,59,60,114,88,79,95,80,41,95,217,279,463,626,1072,518,733
+25305,"Pellorneum ruficeps","Puff-throated Babbler","Regular",20,5,17,3,1,55,36,53,55,78,68,32,28,66,163,303,626,446,721,1226,928
+25483,"Alcippe poioicephala","Brown-cheeked Fulvetta","Regular",20,3,39,11,2,59,54,125,72,93,79,45,45,84,142,201,341,306,629,394,387
+25590,"Montecincla jerdoni","Banasura Laughingthrush","Sporadic",10,0,0,0,0,1,3,1,0,1,2,8,0,0,0,1,0,5,3,0,7
+25591,"Montecincla cachinnans","Nilgiri Laughingthrush","Sporadic",10,0,0,0,0,3,2,1,0,0,4,0,1,1,0,0,1,0,1,5,10
+25592,"Montecincla fairbanki","Palani Laughingthrush","Regular",20,3,9,4,1,14,8,25,38,16,15,101,41,50,136,126,153,263,438,165,283
+25593,"Montecincla meridionalis","Ashambu Laughingthrush","Sporadic",11,0,0,0,0,0,1,0,0,8,3,3,1,3,7,2,0,0,14,2,4
+25702,"Argya malcolmi","Large Gray Babbler","Sporadic",11,0,0,0,0,0,0,0,0,0,2,1,1,2,7,10,15,12,3,3,15
+25705,"Argya subrufa","Rufous Babbler","Regular",20,3,15,13,1,38,26,48,53,45,72,32,42,124,234,314,620,466,478,650,607
+25709,"Argya striata","Jungle Babbler","Regular",20,5,25,12,8,80,23,85,68,79,91,87,101,1076,2716,3214,4697,5041,5855,6755,6055
+25716,"Argya affinis","Yellow-billed Babbler","Regular",20,3,9,8,16,40,28,24,44,28,30,47,45,771,1694,2896,4086,4070,4000,6498,5454
+25872,"Pterorhinus delesserti","Wayanad Laughingthrush","Regular",20,3,15,4,1,24,18,14,4,10,15,16,15,17,19,21,40,34,65,38,24
+25980,"Sitta castanea","Indian Nuthatch","Sporadic",10,1,0,0,1,0,0,0,0,0,0,0,0,3,3,8,12,2,3,3,4
+26066,"Sitta frontalis","Velvet-fronted Nuthatch","Regular",20,3,42,14,2,77,44,86,60,66,57,76,79,178,306,328,546,491,667,451,561
+26887,"Gracula indica","Southern Hill Myna","Regular",20,9,67,22,5,124,74,197,123,140,187,106,151,409,859,957,1684,1892,2680,1877,1717
+26906,"Pastor roseus","Rosy Starling","Sporadic",18,1,0,0,2,3,3,3,11,5,14,6,12,145,352,413,926,989,908,811,623
+26907,"Agropsar sturninus","Daurian Starling","Sporadic",6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,3,6,1
+26923,"Sturnia pagodarum","Brahminy Starling","Sporadic",19,1,2,2,1,1,1,3,4,0,8,6,6,38,94,173,210,177,209,365,295
+26924,"Sturnia malabarica","Chestnut-tailed Starling","Sporadic",19,2,21,10,0,46,14,50,22,28,59,26,48,212,241,357,537,987,947,1170,1220
+26927,"Sturnia blythii","Malabar Starling","Regular",20,2,20,1,2,16,14,30,42,49,40,28,86,232,429,583,874,951,1274,1348,1099
+26935,"Acridotheres tristis","Common Myna","Regular",20,9,33,13,65,123,87,126,101,79,119,101,138,2611,6855,10660,12540,16060,15253,19679,16403
+26946,"Acridotheres fuscus","Jungle Myna","Regular",20,15,30,10,38,71,45,56,48,53,43,56,65,539,894,1178,1751,1875,2422,1870,2269
+27280,"Zoothera neilgherriensis","Nilgiri Thrush","Sporadic",16,0,0,0,1,2,0,2,2,1,1,3,7,1,2,13,8,14,14,7,4
+27415,"Geokichla wardii","Pied Thrush","Sporadic",5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,0
+27462,"Geokichla citrina","Orange-headed Thrush","Regular",20,3,16,14,3,58,28,46,60,61,74,53,76,272,403,736,1236,1389,1343,1400,1381
+27712,"Turdus simillimus","Indian Blackbird","Sporadic",19,0,14,5,1,22,19,29,42,23,38,42,39,83,132,130,232,390,459,358,370
+27723,"Turdus obscurus","Eyebrowed Thrush","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+27816,"Muscicapa dauurica","Asian Brown Flycatcher","Regular",20,3,26,7,4,46,29,86,46,69,77,54,53,173,253,409,628,727,933,986,896
+27821,"Muscicapa muttui","Brown-breasted Flycatcher","Regular",20,6,13,9,1,39,29,78,50,64,76,41,52,112,143,267,343,446,514,502,451
+27840,"Muscicapa striata","Spotted Flycatcher","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+28008,"Copsychus fulicatus","Indian Robin","Sporadic",19,2,4,2,0,5,2,7,15,4,15,22,18,131,306,428,664,774,1004,1376,1454
+28014,"Copsychus saularis","Oriental Magpie-Robin","Regular",20,9,35,13,48,110,87,122,94,78,89,95,113,1755,4147,6436,7840,11225,11641,14989,11849
+28031,"Copsychus malabaricus","White-rumped Shama","Regular",20,1,5,1,1,3,4,6,4,18,9,10,8,17,21,31,55,26,53,40,58
+28065,"Sholicola major","Nilgiri Sholakili","Sporadic",10,0,0,0,0,5,7,2,0,2,5,2,0,2,0,0,0,4,1,0,4
+28066,"Sholicola albiventris","White-bellied Sholakili","Sporadic",19,1,3,1,0,7,1,6,19,4,10,38,24,18,55,57,78,124,121,55,68
+28085,"Cyornis pallidipes","White-bellied Blue Flycatcher","Regular",20,4,11,11,1,36,28,55,29,44,48,30,41,86,109,143,191,196,221,163,165
+28095,"Cyornis rubeculoides","Blue-throated Flycatcher","Sporadic",19,3,2,4,0,13,12,19,27,23,31,18,30,62,59,116,140,150,214,218,207
+28121,"Cyornis tickelliae","Tickell's Blue Flycatcher","Regular",20,6,7,3,1,33,9,22,37,27,31,29,27,90,129,280,515,518,559,749,945
+28188,"Cyanoptila cyanomelana","Blue-and-white Flycatcher","Sporadic",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,13,4,0
+28194,"Eumyias albicaudatus","Nilgiri Flycatcher","Regular",20,2,11,5,2,26,13,24,33,19,20,41,38,55,110,129,166,217,337,130,305
+28200,"Eumyias thalassinus","Verditer Flycatcher","Regular",20,3,14,1,1,12,15,29,13,14,12,19,35,56,55,124,162,232,284,246,234
+28402,"Larvivora brunnea","Indian Blue Robin","Sporadic",18,0,3,4,0,15,12,19,15,36,24,17,26,40,41,88,103,146,180,116,172
+28419,"Luscinia svecica","Bluethroat","Sporadic",10,0,0,0,0,0,1,0,0,0,0,1,1,0,4,15,20,8,14,15,10
+28440,"Myophonus horsfieldii","Malabar Whistling-Thrush","Regular",20,8,57,13,4,104,68,169,115,157,138,104,89,280,526,609,1157,1312,1955,1159,1240
+28508,"Ficedula zanthopygia","Yellow-rumped Flycatcher","Sporadic",4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+28516,"Ficedula nigrorufa","Black-and-orange Flycatcher","Sporadic",19,2,2,2,0,8,11,8,20,10,14,61,30,26,59,73,76,124,160,63,173
+28556,"Ficedula superciliaris","Ultramarine Flycatcher","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+28559,"Ficedula ruficauda","Rusty-tailed Flycatcher","Regular",20,4,8,7,1,41,35,50,28,34,36,31,42,53,77,126,164,177,217,206,207
+28560,"Ficedula albicilla","Taiga Flycatcher","Sporadic",11,1,0,0,0,0,0,0,0,0,1,1,1,1,0,2,2,4,2,29,22
+28561,"Ficedula subrubra","Kashmir Flycatcher","Sporadic",8,2,0,0,0,0,0,0,1,0,0,1,0,1,0,1,2,0,1,0,1
+28562,"Ficedula parva","Red-breasted Flycatcher","Sporadic",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+28644,"Monticola cinclorhyncha","Blue-capped Rock-Thrush","Regular",20,2,8,1,1,17,16,28,15,25,30,22,23,37,64,102,191,197,194,213,196
+28656,"Monticola saxatilis","Rufous-tailed Rock-Thrush","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+28657,"Monticola solitarius","Blue Rock-Thrush","Sporadic",19,1,1,3,0,4,6,6,2,3,2,10,15,13,21,31,31,41,43,45,80
+28680,"Saxicola maurus","Siberian Stonechat","Sporadic",17,1,2,0,0,1,0,4,2,1,4,5,5,22,70,159,172,250,341,443,436
+28712,"Saxicola caprata","Pied Bushchat","Regular",20,3,14,4,1,14,9,18,32,15,35,86,52,136,327,476,565,564,805,715,908
+28785,"Oenanthe oenanthe","Northern Wheatear","Sporadic",3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0
+28798,"Oenanthe isabellina","Isabelline Wheatear","Sporadic",9,0,0,0,0,0,0,0,2,0,0,0,1,5,2,1,1,0,9,6,4
+28801,"Oenanthe deserti","Desert Wheatear","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,17,0,0
+28811,"Oenanthe pleschanka","Pied Wheatear","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+28852,"Oenanthe picata","Variable Wheatear","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0
+28951,"Dicaeum agile","Thick-billed Flowerpecker","Sporadic",19,1,18,1,0,10,11,26,11,17,27,19,7,23,73,83,139,101,111,73,129
+29021,"Dicaeum erythrorhynchos","Pale-billed Flowerpecker","Regular",20,7,11,7,47,74,83,99,64,32,32,44,46,587,2097,4148,5603,6682,6347,9004,6233
+29025,"Dicaeum concolor","Nilgiri Flowerpecker","Regular",20,7,32,12,4,81,46,123,110,128,109,95,72,219,425,794,1387,1371,1909,1528,1316
+29263,"Leptocoma zeylonica","Purple-rumped Sunbird","Regular",20,6,25,9,56,106,84,97,80,92,105,113,114,1467,3591,6768,8281,9720,9919,13772,11336
+29266,"Leptocoma minima","Crimson-backed Sunbird","Regular",20,8,50,17,1,95,74,206,107,157,163,92,89,229,418,642,1092,859,1332,1335,1146
+29429,"Cinnyris asiaticus","Purple Sunbird","Regular",20,5,17,14,53,98,76,135,94,48,99,68,78,557,1220,2050,2662,2323,2599,3173,2553
+29479,"Cinnyris lotenius","Loten's Sunbird","Regular",20,3,18,5,3,19,13,39,37,48,50,49,57,510,1142,1812,2987,3308,3786,5003,4292
+29586,"Arachnothera longirostra","Little Spiderhunter","Regular",20,4,28,11,2,50,34,74,53,93,76,30,44,90,215,421,622,454,494,704,571
+29620,"Irena puella","Asian Fairy-bluebird","Regular",20,4,56,18,2,80,51,159,84,127,141,80,109,180,359,509,796,831,1207,956,779
+29654,"Chloropsis jerdoni","Jerdon's Leafbird","Regular",20,2,9,2,3,27,12,24,17,22,28,17,16,163,322,601,599,744,796,1008,688
+29655,"Chloropsis aurifrons","Golden-fronted Leafbird","Regular",20,3,31,11,2,49,36,85,69,83,91,57,85,305,556,934,1549,1587,1534,2144,1687
+29872,"Ploceus manyar","Streaked Weaver","Sporadic",16,2,0,0,1,1,0,1,5,0,2,5,1,79,94,80,93,139,134,117,88
+29877,"Ploceus philippinus","Baya Weaver","Regular",20,2,2,4,7,2,4,2,6,1,10,18,22,286,469,558,629,544,817,870,933
+30034,"Euodice malabarica","Indian Silverbill","Sporadic",11,0,0,0,0,0,0,0,0,0,1,1,1,4,2,11,5,5,8,6,27
+30045,"Lonchura punctulata","Scaly-breasted Munia","Regular",20,1,4,2,1,5,6,4,3,5,13,15,24,253,632,860,1119,1333,1477,2129,1801
+30059,"Lonchura kelaarti","Black-throated Munia","Sporadic",19,5,8,3,0,6,7,22,19,16,24,23,27,27,97,151,197,161,169,295,345
+30063,"Lonchura striata","White-rumped Munia","Regular",20,3,10,5,9,22,18,21,21,12,23,27,30,374,699,1164,1551,1469,1659,2844,2797
+30080,"Lonchura malacca","Tricolored Munia","Sporadic",18,3,5,0,0,3,7,27,7,3,5,11,22,139,255,397,525,472,654,620,673
+30318,"Amandava amandava","Red Avadavat","Sporadic",16,1,2,0,1,0,0,1,4,0,2,4,7,11,44,38,46,67,141,105,113
+30494,"Passer domesticus","House Sparrow","Regular",20,2,13,7,5,20,9,3,12,15,21,14,22,274,390,783,1131,1755,1464,1405,1100
+30510,"Passer hispaniolensis","Spanish Sparrow","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+30580,"Gymnoris xanthocollis","Yellow-throated Sparrow","Sporadic",19,2,2,2,0,3,4,6,12,1,12,12,5,52,88,109,153,158,206,251,257
+30597,"Carpospiza brachydactyla","Pale Rockfinch","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+30622,"Dendronanthus indicus","Forest Wagtail","Regular",20,4,18,6,8,45,28,60,31,27,24,18,37,65,99,158,161,170,205,129,132
+30633,"Motacilla cinerea","Gray Wagtail","Regular",20,8,60,13,8,58,52,118,86,93,87,125,93,353,581,773,1153,985,1318,986,1106
+30637,"Motacilla flava","Western Yellow Wagtail","Regular",20,1,11,5,4,1,6,12,10,10,17,17,47,236,491,626,1000,976,973,850,880
+30643,"Motacilla flava","Western Yellow Wagtail","Regular",20,1,11,5,4,1,6,12,10,10,17,17,47,236,491,626,1000,976,973,850,880
+30649,"Motacilla flava","Western Yellow Wagtail","Regular",20,1,11,5,4,1,6,12,10,10,17,17,47,236,491,626,1000,976,973,850,880
+30655,"Motacilla tschutschensis","Eastern Yellow Wagtail","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+30662,"Motacilla citreola","Citrine Wagtail","Sporadic",11,0,0,0,0,0,0,0,3,1,1,1,0,2,6,0,2,8,10,6,20
+30669,"Motacilla maderaspatensis","White-browed Wagtail","Regular",20,6,30,18,10,42,36,55,45,50,70,62,90,375,705,1054,1447,1598,1912,2292,2426
+30675,"Motacilla alba","White Wagtail","Sporadic",18,0,1,0,1,1,3,6,2,4,3,2,4,30,86,93,88,121,84,52,59
+30704,"Anthus richardi","Richard's Pipit","Sporadic",14,0,0,0,0,0,1,2,2,0,4,7,3,11,16,15,11,18,13,16,14
+30710,"Anthus rufulus","Paddyfield Pipit","Sporadic",19,3,6,4,0,18,12,15,27,7,21,25,30,142,343,688,770,767,1031,1393,1461
+30740,"Anthus similis","Long-billed Pipit","Sporadic",14,0,1,0,0,0,0,0,2,4,4,2,1,1,5,5,2,1,5,11,8
+30765,"Anthus godlewskii","Blyth's Pipit","Sporadic",12,0,0,0,0,1,0,0,0,0,1,2,2,5,3,12,17,55,42,98,69
+30767,"Anthus campestris","Tawny Pipit","Sporadic",11,0,0,0,0,0,0,0,0,0,4,1,1,4,3,13,11,12,17,59,18
+30791,"Anthus nilghiriensis","Nilgiri Pipit","Regular",20,2,3,3,2,17,3,5,13,7,12,42,23,35,54,42,54,55,103,31,48
+30811,"Anthus trivialis","Tree Pipit","Sporadic",9,0,0,0,0,0,0,0,0,0,0,0,1,2,2,11,13,9,17,68,15
+30815,"Anthus hodgsoni","Olive-backed Pipit","Sporadic",11,0,2,0,0,0,0,1,0,1,0,3,0,0,1,3,7,3,7,3,3
+30824,"Anthus cervinus","Red-throated Pipit","Sporadic",6,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,0,1,1,5
+31096,"Carpodacus erythrinus","Common Rosefinch","Sporadic",18,0,13,1,0,13,13,15,26,9,11,22,7,13,48,67,94,164,209,151,109
+31620,"Emberiza lathami","Crested Bunting","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0
+31621,"Emberiza melanocephala","Black-headed Bunting","Sporadic",9,0,0,0,0,0,0,0,1,2,1,0,0,0,0,5,2,27,10,15,9
+31622,"Emberiza bruniceps","Red-headed Bunting","Sporadic",10,0,0,0,0,0,0,0,2,1,0,1,0,0,2,4,1,13,2,57,22
+31626,"Emberiza fucata","Chestnut-eared Bunting","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+31663,"Emberiza buchanani","Gray-necked Bunting","Sporadic",13,0,0,0,0,0,0,1,1,2,2,2,0,4,9,25,12,36,19,99,89
+31670,"Emberiza hortulana","Ortolan Bunting","Sporadic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+31745,"Emberiza pusilla","Little Bunting","Sporadic",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0

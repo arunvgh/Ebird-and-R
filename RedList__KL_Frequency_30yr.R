@@ -1,12 +1,8 @@
 ##################### Required ##########################
+library (plyr) # For join Function
 library (dplyr)  # For Pipes %>%
 library (lubridate) # For Date Function
 library (tidyr) # For pivot_wider Function
-library (plyr) # For join Function
-library(conflicted)
-conflict_prefer("arrange", "dplyr")
-conflict_prefer("summarize", "dplyr")
-conflict_prefer("mutate", "dplyr")
 #############################################################
 # Clear the Console and the Environment
 rm(list=ls()) 
@@ -135,7 +131,7 @@ data_3 <- data_2 %>%
 
 data_3$COUNT <- rowSums((data_3[3:22])>0)
 
-data_3$STATUS <- ifelse (rowSums((data_3[19:23])>0) == 5,'Recent','Sporadic')
+data_3$STATUS <- ifelse ((rowSums((data_3[18:22])>0) == 5) & (rowSums((data_3[3:21])>0) == 0),'Recent','Sporadic')
 
 data_3$STATUS[data_3$COUNT > 19] <- "Regular"
 
@@ -155,7 +151,7 @@ ebd_d1 <- ebd_d1 %>%
 data_4 <- join(data_3, ebd_d1, by="SCIENTIFIC.NAME")
 
 data_4 <- data_4 %>%
-                select(TAXONOMIC.ORDER, everything()) %>% 
+                select(TAXONOMIC.ORDER,SCIENTIFIC.NAME,COMMON.NAME,STATUS,COUNT,everything()) %>% 
                 arrange(TAXONOMIC.ORDER) 
 
 # Save the dataframe in RDS file
