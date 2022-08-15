@@ -53,11 +53,11 @@ ebd <- read.delim(paste0(ebdfile,".txt"),
                   stringsAsFactors = F, 
                   na.strings = c ("", " ",NA))
 
-# write.csv(ebd,"D:/ArunV/R Programming Ebird/KL_Source.csv", row.names = FALSE)
+# write.csv(ebd,"D:/ArunV/R Programming Ebird/KL_Ebird_Data.csv", row.names = FALSE)
 
-save(ebd, file = "KL_RedListData_30YR.RData")
+save(ebd, file = "KL_Ebird_Data.RData")
 
-# load("KL_RedListData_30YR.RData")
+# load("KL_Ebird_Data.RData")
 
 # Downsize the DataSet to Kerala. Not required if you download KL data
 # ebd <- ebd %>% 
@@ -131,7 +131,7 @@ data_3 <- data_2 %>%
 
 data_3$COUNT <- rowSums((data_3[3:22])>0)
 
-data_3$STATUS <- ifelse ((rowSums((data_3[18:22])>0) == 5) & (rowSums((data_3[3:21])>0) == 0),'Recent','Sporadic')
+data_3$STATUS <- ifelse ((rowSums((data_3[18:22])>0) == 5) & (rowSums((data_3[7:17])>0) < 4),'Recent','Sporadic')
 
 data_3$STATUS[data_3$COUNT > 19] <- "Regular"
 
